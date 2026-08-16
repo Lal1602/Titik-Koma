@@ -1,99 +1,76 @@
 # ✒️ TITIK—KOMA
 
-> *"Karena produktif itu bagus, tapi istirahat juga bukan dosa."*
+> *"Productivity is great, but resting is not a sin."*
 
-**Titik-Koma** adalah aplikasi ruang jeda minimalis yang dirancang khusus untuk Gen Z. Sebuah pelarian digital dari *hustle culture*, *overthinking*, dan hiruk-pikuk media sosial. Aplikasi ini menawarkan koleksi kata-kata (quotes) yang sangat *relatable*, puitis, dan menyentuh hati, dipadukan dengan asisten AI simpatik yang siap mendengarkan curhatanmu kapan saja.
+Titik-Koma is a minimalist mobile application designed to be a digital resting place. A quiet space away from hustle culture and social media noise, offering a curated collection of relatable quotes and an empathetic AI listener.
 
----
+<div align="center">
+  <img src="./assets/images/preview/utama.png" width="22%" alt="Home Screen" />
+  <img src="./assets/images/preview/pratinjau.png" width="22%" alt="Image Export Preview" />
+  <img src="./assets/images/preview/curhat.png" width="22%" alt="AI Listener" />
+  <img src="./assets/images/preview/lainnya.png" width="22%" alt="Settings & Bookmarks" />
+</div>
 
-## ✨ Fitur Utama
+## ✨ Features
 
-- **🖤 Koleksi Quotes Relatable (Vibe Gen Z)**  
-  Berisi kurasi lirik lagu *aesthetic*, dialog film, kutipan sastra, hingga celetukan kehidupan sehari-hari (*quarter-life crisis*, *mental health*, asmara). Semuanya anti-alay dan tidak *cringe*. Tersedia fitur filter: Semua, Sastra, Film, Lagu, Relatable, dan IG Notes.
-
-- **💬 Curhat AI (Teman Cerita Rahasia)**  
-  Ditenagai oleh model AI generatif (Google Gemini). Kamu bisa mengetik apa saja—sedang lelah, *burnout*, atau sekadar butuh divalidasi—dan AI akan membalas dengan satu kalimat *quote* spesifik layaknya seorang teman yang menepuk pundakmu, lengkap dengan opsi untuk menyalin atau membagikannya.
-
-- **🎨 Bagikan Sebagai Gambar (Aesthetic Canvas)**  
-  Tinggalkan tangkapan layar biasa! Ubah *quote* favoritmu menjadi gambar estetik *Full HD* siap pamer ke IG Story, X (Twitter), atau status WhatsApp.  
-  Tersedia 4 gaya visual eksklusif:
-  - **Hitam (Neo-Brutalism):** Bold, minimalis, rapi.
-  - **Kertas (Vintage Polaroid):** Tekstur kertas tua yang klasik.
-  - **Abu (Thread X):** Bersih, modern, menyerupai cuitan.
-  - **Malam (Starry Night):** Desain ala pemutar musik dengan *progress bar* melankolis.
+- **Curated Quote Collection**  
+  A hand-picked selection of aesthetic song lyrics, movie dialogues, and literary quotes. Filter by *Literature*, *Movies*, *Songs*, *Relatable*, or short-form *IG Notes*.
   
-  Mendukung berbagai rasio layar otomatis: `1:1`, `4:3`, `16:9`, dan `9:16`.
+- **AI Listener (Curhat AI)**  
+  Powered by Google Gemini. Type whatever is on your mind—venting, burnout, or overthinking—and the AI will respond with a specific, validating quote that resonates with your feelings.
 
-- **📅 Kutipan Hari Ini (Quote of the Day)**  
-  Setiap kali membuka aplikasi di hari yang baru, kamu akan disambut oleh satu kalimat spesial yang dipilih secara acak namun deterministik berdasarkan tanggal hari itu.
+- **Aesthetic Canvas Export**  
+  Export your favorite quotes into high-resolution, beautifully designed images ready for Instagram Stories or X. 
+  Choose from 4 visual themes:
+  - **Midnight:** Bold, neo-brutalism.
+  - **Kertas:** Classic, vintage polaroid texture.
+  - **Abu:** Clean, modern thread-style.
+  - **Malam:** Starry night, music player interface.
+  
+  *Supports automatic rendering for 1:1, 4:3, 16:9, and 9:16 aspect ratios.*
 
-- **🔖 Koleksi Pribadi (Bookmark)**  
-  Simpan kalimat-kalimat yang menampar atau mewakili perasaanmu ke dalam koleksi pribadi untuk dibaca lagi saat kamu butuh pengingat.
+- **Quote of the Day**  
+  A unique, deterministically generated quote to greet you every time you open the app on a new day.
 
----
+- **Private Bookmarks**  
+  Save quotes that resonate with you to your offline personal collection.
 
 ## 🛠️ Tech Stack
 
-Aplikasi ini dibangun menggunakan teknologi modern untuk memastikan performa yang cepat dan pengalaman UI/UX yang *smooth*:
-
-- **Framework:** [React Native](https://reactnative.dev/) & [Expo](https://expo.dev/) (dengan Expo Router untuk navigasi)
-- **Styling:** React Native StyleSheet (dioptimalkan dengan filosofi *Design System* khusus)
+- **Framework:** [React Native](https://reactnative.dev/) & [Expo](https://expo.dev/) (Expo Router)
+- **Styling:** Custom Design System (Vanilla React Native StyleSheet)
 - **AI Integration:** `@google/generative-ai` (Gemini API)
-- **Storage:** `@react-native-async-storage/async-storage` (100% offline, privasi aman!)
-- **Tools Tambahan:** `expo-haptics` (untuk interaksi sentuhan yang premium), `react-native-view-shot` (untuk merender kanvas gambar HD), `expo-clipboard`.
+- **Storage:** `@react-native-async-storage/async-storage` (100% local, privacy-first)
+- **Libraries:** `expo-haptics`, `react-native-view-shot` (HD Canvas rendering), `expo-clipboard`.
 
----
+## 🚀 Getting Started
 
-## 🚀 Cara Menjalankan di Komputer Lokal
+To run this project locally:
 
-Ingin mencoba menjalankan atau berkontribusi pada proyek ini? Ikuti langkah mudah berikut:
-
-1. **Clone repositori ini:**
+1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/TitikKoma.git
+   git clone https://github.com/yourusername/TitikKoma.git
    cd TitikKoma
    ```
 
-2. **Install semua dependensi:**
+2. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Atur API Key AI (Wajib untuk fitur Curhat AI):**
-   - Buat file `.env` di *root* folder proyek.
-   - Tambahkan kunci Gemini API kamu:
-     ```env
-     EXPO_PUBLIC_GEMINI_API_KEY=masukkan_api_key_kamu_di_sini
-     ```
+3. **Set up environment variables**
+   Create a `.env` file in the root directory and add your Gemini API key:
+   ```env
+   EXPO_PUBLIC_GEMINI_API_KEY=your_gemini_api_key_here
+   ```
 
-4. **Jalankan Development Server:**
+4. **Start the development server**
    ```bash
    npx expo start --clear
    ```
+   *Scan the QR code with the Expo Go app on your phone, or press `a` for Android Emulator / `i` for iOS Simulator.*
 
-5. **Buka di HP atau Emulator:**
-   - Gunakan aplikasi **Expo Go** di Android/iOS dan *scan* QR code yang muncul di terminal.
-   - Atau tekan `a` untuk membuka di Android Emulator, dan `i` untuk iOS Simulator.
+## 📄 License
 
----
-
-## 📸 Cuplikan Layar (Screenshots)
-
-*(Ganti URL di bawah ini dengan gambar screenshot aplikasimu yang sebenarnya saat kamu push ke GitHub!)*
-
-<div align="center">
-  <img src="./assets/images/preview/utama.png" width="22%" alt="Layar Utama" />
-  <img src="./assets/images/preview/pratinjau.png" width="22%" alt="Pratinjau Ekspor Gambar" />
-  <img src="./assets/images/preview/curhat.png" width="22%" alt="Curhat AI" />
-  <img src="./assets/images/preview/lainnya.png" width="22%" alt="Koleksi dan Pengaturan" />
-</div>
-
----
-
-## 🤝 Kontribusi
-
-Merasa ada *quote* lirik lagu atau sastra yang belum masuk dan wajib ada? Ingin memperbaiki *bug* atau menambahkan animasi transisi yang lebih kece? *Pull Request* sangat diterima! Pastikan untuk mengikuti gaya bahasa dan estetika desain yang sudah ada (tidak norak/alay).
-
-## 📄 Lisensi
-
-Proyek ini menggunakan lisensi MIT. Silakan modifikasi, pelajari, dan gunakan secara bebas. Jangan lupa beristirahat hari ini.
+Distributed under the MIT License. Feel free to use, modify, and learn from this project. 
+Don't forget to take a rest today.
