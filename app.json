@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Titik-Koma",
+    "slug": "titik-koma",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "tempapp",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0a0a0a",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundImage": "./assets/images/android-icon-background.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "ios": {
+      "icon": "./assets/expo.icon",
+      "infoPlist": {
+        "NSPhotoLibraryAddUsageDescription": "Titik-Koma perlu akses galeri untuk menyimpan gambar quotes."
+      }
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#208AEF",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 76
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Titik-Koma perlu akses galeri untuk menyimpan gambar quotes.",
+          "savePhotosPermission": "Titik-Koma perlu akses galeri untuk menyimpan gambar quotes.",
+          "isAccessMediaLocationEnabled": false
+        }
+      ]
+    ]
+  }
+}

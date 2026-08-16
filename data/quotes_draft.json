@@ -1,0 +1,503 @@
+[
+  {
+    "id": "q001",
+    "text": "Aku ingin mencintaimu dengan sederhana: dengan kata yang tak sempat diucapkan kayu kepada api yang menjadikannya abu.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Aku Ingin",
+    "category": "Sastra",
+    "language": "id",
+    "length": "long",
+    "tags": ["cinta", "puitis", "romantis", "klasik"]
+  },
+  {
+    "id": "q002",
+    "text": "Beri aku seribu orang tua, niscaya akan kucabut Semeru dari akarnya. Beri aku sepuluh pemuda, niscaya akan kuguncang dunia.",
+    "author": "Ir. Soekarno",
+    "source": "Pidato",
+    "category": "Sastra",
+    "language": "id",
+    "length": "long",
+    "tags": ["inspirasi", "sejarah", "semangat"]
+  },
+  {
+    "id": "q003",
+    "text": "Aku mau hidup seribu tahun lagi.",
+    "author": "Chairil Anwar",
+    "source": "Aku",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": ["hidup", "semangat", "klasik", "ig-notes"]
+  },
+  {
+    "id": "q004",
+    "text": "Hidup hanya menunda kekalahan.",
+    "author": "Chairil Anwar",
+    "source": "Derai-Derai Cemara",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": ["eksistensial", "gelap", "filosofis", "ig-notes"]
+  },
+  {
+    "id": "q005",
+    "text": "Kita adalah rasa yang menolak sembuh dan ingatan yang menolak lupa.",
+    "author": "Sapardi Djoko Damono",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": ["patah-hati", "kenangan", "puitis"]
+  },
+  {
+    "id": "q006",
+    "text": "Aku mencintaimu. Itu sebabnya aku takkan pernah selesai mendoakan keselamatanmu.",
+    "author": "Sapardi Djoko Damono",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": ["cinta", "doa", "romantis", "tulus"]
+  },
+  {
+    "id": "q007",
+    "text": "Sepi itu tidak ada; yang ada hanyalah hati yang segan berdenyut.",
+    "author": "Sapardi Djoko Damono",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": ["sepi", "puitis", "malam", "hati"]
+  },
+  {
+    "id": "q008",
+    "text": "Bukan lautan hanya kolam susu, kail dan jala cukup menghidupimu.",
+    "author": "Koes Plus",
+    "source": "Kolam Susu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": ["nostalgia", "alam", "indonesia"]
+  },
+  {
+    "id": "q009",
+    "text": "Manusia hanya bisa mengusahakan, bukan menentukan.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Bumi Manusia",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": ["pasrah", "ikhtiar", "filosofis", "ig-notes"]
+  },
+  {
+    "id": "q010",
+    "text": "Seorang terpelajar harus sudah berbuat adil sejak dalam pikiran, apalagi dalam perbuatan.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Bumi Manusia",
+    "category": "Sastra",
+    "language": "id",
+    "length": "long",
+    "tags": ["keadilan", "moral", "terpelajar"]
+  },
+  {
+    "id": "q011",
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "source": "The Lord of the Rings",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": ["perjalanan", "eksistensial", "ig-notes"]
+  },
+  {
+    "id": "q012",
+    "text": "So it goes.",
+    "author": "Kurt Vonnegut",
+    "source": "Slaughterhouse-Five",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": ["pasrah", "minimalis", "ig-notes"]
+  },
+  {
+    "id": "q013",
+    "text": "We accept the love we think we deserve.",
+    "author": "Stephen Chbosky",
+    "source": "The Perks of Being a Wallflower",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": ["cinta-diri", "self-worth", "ig-notes"]
+  },
+  {
+    "id": "q014",
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    "author": "Injil Yohanes 1:1",
+    "source": "Alkitab",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": ["spiritual", "kata", "eksistensial"]
+  },
+  {
+    "id": "q015",
+    "text": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.",
+    "author": "Rumi",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": ["damai", "penerimaan", "spiritual", "puitis"]
+  },
+  {
+    "id": "q016",
+    "text": "You had me at 'hello'.",
+    "author": "Jerry Maguire",
+    "source": "Jerry Maguire (1996)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["cinta", "romantis", "klasik", "ig-notes"]
+  },
+  {
+    "id": "q017",
+    "text": "I think we're just gonna have to be secretly in love with each other and leave it at that.",
+    "author": "Richie Tenenbaum",
+    "source": "The Royal Tenenbaums (2001)",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": ["cinta-terpendam", "sedih", "indie"]
+  },
+  {
+    "id": "q018",
+    "text": "You make me want to be a better man.",
+    "author": "Melvin Udall",
+    "source": "As Good as It Gets (1997)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["cinta", "pertumbuhan", "ig-notes"]
+  },
+  {
+    "id": "q019",
+    "text": "It's like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger they were.",
+    "author": "Samwise Gamgee",
+    "source": "The Lord of the Rings: The Two Towers (2002)",
+    "category": "Film",
+    "language": "en",
+    "length": "long",
+    "tags": ["harapan", "perjuangan", "cerita"]
+  },
+  {
+    "id": "q020",
+    "text": "The stuff that dreams are made of.",
+    "author": "Sam Spade",
+    "source": "The Maltese Falcon (1941)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["mimpi", "misteri", "klasik", "ig-notes"]
+  },
+  {
+    "id": "q021",
+    "text": "Somewhere, something incredible is waiting to be known.",
+    "author": "Carl Sagan",
+    "source": "Contact (1997)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["harapan", "penasaran", "semesta", "ig-notes"]
+  },
+  {
+    "id": "q022",
+    "text": "Whatever happens tomorrow, we had today.",
+    "author": "Jesse",
+    "source": "Before Sunset (2004)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["saat-ini", "cinta", "waktu", "ig-notes"]
+  },
+  {
+    "id": "q023",
+    "text": "I guess I could be pretty pissed off about what happened to me, but it's hard to stay mad when there's so much beauty in the world.",
+    "author": "Lester Burnham",
+    "source": "American Beauty (1999)",
+    "category": "Film",
+    "language": "en",
+    "length": "long",
+    "tags": ["penerimaan", "keindahan", "hidup", "damai"]
+  },
+  {
+    "id": "q024",
+    "text": "We're all just walking each other home.",
+    "author": "Ram Dass",
+    "source": "Being Ram Dass",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["kebersamaan", "perjalanan", "tulus", "ig-notes"]
+  },
+  {
+    "id": "q025",
+    "text": "Why so serious?",
+    "author": "The Joker",
+    "source": "The Dark Knight (2008)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["chaos", "absurd", "ig-notes"]
+  },
+  {
+    "id": "q026",
+    "text": "No matter how your heart is grieving, if you keep on believing, the dreams that you wish will come true.",
+    "author": "Cinderella",
+    "source": "Cinderella (1950)",
+    "category": "Film",
+    "language": "en",
+    "length": "long",
+    "tags": ["harapan", "mimpi", "klasik"]
+  },
+  {
+    "id": "q027",
+    "text": "Every passing minute is another chance to turn it all around.",
+    "author": "Sofia",
+    "source": "Vanilla Sky (2001)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["kesempatan", "perubahan", "harapan", "ig-notes"]
+  },
+  {
+    "id": "q028",
+    "text": "I am groot.",
+    "author": "Groot",
+    "source": "Guardians of the Galaxy (2014)",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": ["absurd", "lucu", "ig-notes"]
+  },
+  {
+    "id": "q029",
+    "text": "Bising di luar, sepi di dalam.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["sepi", "keramaian", "kontradiksi", "ig-notes"]
+  },
+  {
+    "id": "q030",
+    "text": "Capek jadi dewasa, pengen jadi kucing aja yang kerjanya cuma tidur dan disayang.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["capek", "lucu", "dewasa", "burnout"]
+  },
+  {
+    "id": "q031",
+    "text": "Hilang arah.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["bingung", "burnout", "ig-notes"]
+  },
+  {
+    "id": "q032",
+    "text": "Mau tidur tapi pikiran malah jalan-jalan ke mana-mana.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["overthinking", "malam", "susah-tidur"]
+  },
+  {
+    "id": "q033",
+    "text": "Baik-baik aja kok, makasih nanya.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["pura-pura", "baik-baik-saja", "ironi", "ig-notes"]
+  },
+  {
+    "id": "q034",
+    "text": "Lelah bukan karena jalannya panjang, tapi karena nggak tau harus ke mana.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["burnout", "arah-hidup", "lelah", "quarter-life-crisis"]
+  },
+  {
+    "id": "q035",
+    "text": "Pengen kabur, tapi nggak tau mau pergi ke mana.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["kabur", "burnout", "ig-notes"]
+  },
+  {
+    "id": "q036",
+    "text": "Bukan nggak mau move on, cuma belum ketemu alasan yang cukup kuat buat mulai.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["move-on", "patah-hati", "jujur"]
+  },
+  {
+    "id": "q037",
+    "text": "Kadang aku cuma butuh didengar, bukan diberi solusi.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["curhat", "didengar", "ig-notes"]
+  },
+  {
+    "id": "q038",
+    "text": "Overthinking is my cardio.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "en",
+    "length": "short",
+    "tags": ["overthinking", "lucu", "ig-notes"]
+  },
+  {
+    "id": "q039",
+    "text": "Manusia paling setia yang kumiliki adalah kekhawatiranku sendiri.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["anxiety", "overthinking", "ironi", "puitis"]
+  },
+  {
+    "id": "q040",
+    "text": "Quarter-life crisis tapi tetap harus masak mie jam 1 pagi.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["quarter-life-crisis", "lucu", "malam", "random"]
+  },
+  {
+    "id": "q041",
+    "text": "Nggak harus selalu kuat kok.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["mental-health", "izin-lemah", "ig-notes"]
+  },
+  {
+    "id": "q042",
+    "text": "Produktif itu bagus, tapi istirahat juga bukan dosa.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["istirahat", "burnout", "ig-notes"]
+  },
+  {
+    "id": "q043",
+    "text": "Salah satu hal terberat adalah pura-pura baik-baik saja di depan orang banyak.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["topeng", "pura-pura", "sosial", "lelah"]
+  },
+  {
+    "id": "q044",
+    "text": "Aku bukan sedang menghilang. Aku sedang mencari diriku yang sempat tertinggal.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["jati-diri", "self-discovery", "puitis"]
+  },
+  {
+    "id": "q045",
+    "text": "Terkadang yang paling melelahkan bukan kegagalan, tapi ekspektasi yang harus dipenuhi.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["ekspektasi", "tekanan", "keluarga", "capek"]
+  },
+  {
+    "id": "q046",
+    "text": "Mimpi besarku: bisa tidur tanpa alarm.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["mimpi", "tidur", "lucu", "ig-notes"]
+  },
+  {
+    "id": "q047",
+    "text": "Diam bukan berarti setuju. Kadang diam itu karena sudah terlalu lelah untuk menjelaskan.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["diam", "lelah", "komunikasi", "introvert"]
+  },
+  {
+    "id": "q048",
+    "text": "Sometimes the smallest step in the right direction ends up being the biggest step of your life.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": ["langkah-kecil", "motivasi-tipis", "perubahan"]
+  },
+  {
+    "id": "q049",
+    "text": "Hujan lagi. Dan aku masih di sini.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["hujan", "malam", "sendu", "ig-notes"]
+  },
+  {
+    "id": "q050",
+    "text": "Setiap orang punya waktu istirahatnya sendiri-sendiri. Kamu nggak perlu minta izin untuk berhenti sejenak.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "long",
+    "tags": ["istirahat", "self-care", "izin", "burnout"]
+  },
+  {
+    "id": "q051",
+    "text": "Bahasa paling jujur adalah raut muka seseorang ketika baru bangun tidur.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": ["jujur", "lucu", "random"]
+  },
+  {
+    "id": "q052",
+    "text": "Tidak ada yang melewatimu. Kamu hanya sedang di jalanmu sendiri.",
+    "author": "Anonim",
+    "category": "Relatable",
+    "language": "id",
+    "length": "short",
+    "tags": ["self-paced", "perbandingan", "ig-notes"]
+  },
+  {
+    "id": "q053",
+    "text": "The goal is not to be perfect by the end. The goal is to be better today.",
+    "author": "Simon Sinek",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": ["pertumbuhan", "motivasi", "progres"]
+  }
+]
