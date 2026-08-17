@@ -7,7 +7,12 @@
     "category": "Sastra",
     "language": "id",
     "length": "long",
-    "tags": ["cinta", "puitis", "romantis", "klasik"]
+    "tags": [
+      "cinta",
+      "puitis",
+      "romantis",
+      "klasik"
+    ]
   },
   {
     "id": "q002",
@@ -17,7 +22,11 @@
     "category": "Sastra",
     "language": "id",
     "length": "long",
-    "tags": ["inspirasi", "sejarah", "semangat"]
+    "tags": [
+      "inspirasi",
+      "sejarah",
+      "semangat"
+    ]
   },
   {
     "id": "q003",
@@ -27,7 +36,12 @@
     "category": "Sastra",
     "language": "id",
     "length": "short",
-    "tags": ["hidup", "semangat", "klasik", "ig-notes"]
+    "tags": [
+      "hidup",
+      "semangat",
+      "klasik",
+      "ig-notes"
+    ]
   },
   {
     "id": "q004",
@@ -37,7 +51,12 @@
     "category": "Sastra",
     "language": "id",
     "length": "short",
-    "tags": ["eksistensial", "gelap", "filosofis", "ig-notes"]
+    "tags": [
+      "eksistensial",
+      "gelap",
+      "filosofis",
+      "ig-notes"
+    ]
   },
   {
     "id": "q005",
@@ -46,7 +65,11 @@
     "category": "Sastra",
     "language": "id",
     "length": "medium",
-    "tags": ["patah-hati", "kenangan", "puitis"]
+    "tags": [
+      "patah-hati",
+      "kenangan",
+      "puitis"
+    ]
   },
   {
     "id": "q006",
@@ -55,7 +78,12 @@
     "category": "Sastra",
     "language": "id",
     "length": "medium",
-    "tags": ["cinta", "doa", "romantis", "tulus"]
+    "tags": [
+      "cinta",
+      "doa",
+      "romantis",
+      "tulus"
+    ]
   },
   {
     "id": "q007",
@@ -64,7 +92,12 @@
     "category": "Sastra",
     "language": "id",
     "length": "medium",
-    "tags": ["sepi", "puitis", "malam", "hati"]
+    "tags": [
+      "sepi",
+      "puitis",
+      "malam",
+      "hati"
+    ]
   },
   {
     "id": "q008",
@@ -74,7 +107,11 @@
     "category": "Sastra",
     "language": "id",
     "length": "medium",
-    "tags": ["nostalgia", "alam", "indonesia"]
+    "tags": [
+      "nostalgia",
+      "alam",
+      "indonesia"
+    ]
   },
   {
     "id": "q009",
@@ -84,7 +121,12 @@
     "category": "Sastra",
     "language": "id",
     "length": "short",
-    "tags": ["pasrah", "ikhtiar", "filosofis", "ig-notes"]
+    "tags": [
+      "pasrah",
+      "ikhtiar",
+      "filosofis",
+      "ig-notes"
+    ]
   },
   {
     "id": "q010",
@@ -94,7 +136,11 @@
     "category": "Sastra",
     "language": "id",
     "length": "long",
-    "tags": ["keadilan", "moral", "terpelajar"]
+    "tags": [
+      "keadilan",
+      "moral",
+      "terpelajar"
+    ]
   },
   {
     "id": "q011",
@@ -104,7 +150,11 @@
     "category": "Sastra",
     "language": "en",
     "length": "short",
-    "tags": ["perjalanan", "eksistensial", "ig-notes"]
+    "tags": [
+      "perjalanan",
+      "eksistensial",
+      "ig-notes"
+    ]
   },
   {
     "id": "q012",
@@ -114,7 +164,11 @@
     "category": "Sastra",
     "language": "en",
     "length": "short",
-    "tags": ["pasrah", "minimalis", "ig-notes"]
+    "tags": [
+      "pasrah",
+      "minimalis",
+      "ig-notes"
+    ]
   },
   {
     "id": "q013",
@@ -124,7 +178,11 @@
     "category": "Sastra",
     "language": "en",
     "length": "short",
-    "tags": ["cinta-diri", "self-worth", "ig-notes"]
+    "tags": [
+      "cinta-diri",
+      "self-worth",
+      "ig-notes"
+    ]
   },
   {
     "id": "q014",
@@ -134,7 +192,11 @@
     "category": "Sastra",
     "language": "en",
     "length": "medium",
-    "tags": ["spiritual", "kata", "eksistensial"]
+    "tags": [
+      "spiritual",
+      "kata",
+      "eksistensial"
+    ]
   },
   {
     "id": "q015",
@@ -143,7 +205,12 @@
     "category": "Sastra",
     "language": "en",
     "length": "medium",
-    "tags": ["damai", "penerimaan", "spiritual", "puitis"]
+    "tags": [
+      "damai",
+      "penerimaan",
+      "spiritual",
+      "puitis"
+    ]
   },
   {
     "id": "q016",
@@ -153,7 +220,12 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["cinta", "romantis", "klasik", "ig-notes"]
+    "tags": [
+      "cinta",
+      "romantis",
+      "klasik",
+      "ig-notes"
+    ]
   },
   {
     "id": "q017",
@@ -163,7 +235,11 @@
     "category": "Film",
     "language": "en",
     "length": "medium",
-    "tags": ["cinta-terpendam", "sedih", "indie"]
+    "tags": [
+      "cinta-terpendam",
+      "sedih",
+      "indie"
+    ]
   },
   {
     "id": "q018",
@@ -173,7 +249,11 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["cinta", "pertumbuhan", "ig-notes"]
+    "tags": [
+      "cinta",
+      "pertumbuhan",
+      "ig-notes"
+    ]
   },
   {
     "id": "q019",
@@ -183,7 +263,11 @@
     "category": "Film",
     "language": "en",
     "length": "long",
-    "tags": ["harapan", "perjuangan", "cerita"]
+    "tags": [
+      "harapan",
+      "perjuangan",
+      "cerita"
+    ]
   },
   {
     "id": "q020",
@@ -193,7 +277,12 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["mimpi", "misteri", "klasik", "ig-notes"]
+    "tags": [
+      "mimpi",
+      "misteri",
+      "klasik",
+      "ig-notes"
+    ]
   },
   {
     "id": "q021",
@@ -203,7 +292,12 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["harapan", "penasaran", "semesta", "ig-notes"]
+    "tags": [
+      "harapan",
+      "penasaran",
+      "semesta",
+      "ig-notes"
+    ]
   },
   {
     "id": "q022",
@@ -213,7 +307,12 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["saat-ini", "cinta", "waktu", "ig-notes"]
+    "tags": [
+      "saat-ini",
+      "cinta",
+      "waktu",
+      "ig-notes"
+    ]
   },
   {
     "id": "q023",
@@ -223,7 +322,12 @@
     "category": "Film",
     "language": "en",
     "length": "long",
-    "tags": ["penerimaan", "keindahan", "hidup", "damai"]
+    "tags": [
+      "penerimaan",
+      "keindahan",
+      "hidup",
+      "damai"
+    ]
   },
   {
     "id": "q024",
@@ -233,7 +337,12 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["kebersamaan", "perjalanan", "tulus", "ig-notes"]
+    "tags": [
+      "kebersamaan",
+      "perjalanan",
+      "tulus",
+      "ig-notes"
+    ]
   },
   {
     "id": "q025",
@@ -243,7 +352,11 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["chaos", "absurd", "ig-notes"]
+    "tags": [
+      "chaos",
+      "absurd",
+      "ig-notes"
+    ]
   },
   {
     "id": "q026",
@@ -253,7 +366,11 @@
     "category": "Film",
     "language": "en",
     "length": "long",
-    "tags": ["harapan", "mimpi", "klasik"]
+    "tags": [
+      "harapan",
+      "mimpi",
+      "klasik"
+    ]
   },
   {
     "id": "q027",
@@ -263,7 +380,12 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["kesempatan", "perubahan", "harapan", "ig-notes"]
+    "tags": [
+      "kesempatan",
+      "perubahan",
+      "harapan",
+      "ig-notes"
+    ]
   },
   {
     "id": "q028",
@@ -273,7 +395,11 @@
     "category": "Film",
     "language": "en",
     "length": "short",
-    "tags": ["absurd", "lucu", "ig-notes"]
+    "tags": [
+      "absurd",
+      "lucu",
+      "ig-notes"
+    ]
   },
   {
     "id": "q029",
@@ -282,7 +408,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["sepi", "keramaian", "kontradiksi", "ig-notes"]
+    "tags": [
+      "sepi",
+      "keramaian",
+      "kontradiksi",
+      "ig-notes"
+    ]
   },
   {
     "id": "q030",
@@ -291,7 +422,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["capek", "lucu", "dewasa", "burnout"]
+    "tags": [
+      "capek",
+      "lucu",
+      "dewasa",
+      "burnout"
+    ]
   },
   {
     "id": "q031",
@@ -300,7 +436,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["bingung", "burnout", "ig-notes"]
+    "tags": [
+      "bingung",
+      "burnout",
+      "ig-notes"
+    ]
   },
   {
     "id": "q032",
@@ -309,7 +449,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["overthinking", "malam", "susah-tidur"]
+    "tags": [
+      "overthinking",
+      "malam",
+      "susah-tidur"
+    ]
   },
   {
     "id": "q033",
@@ -318,7 +462,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["pura-pura", "baik-baik-saja", "ironi", "ig-notes"]
+    "tags": [
+      "pura-pura",
+      "baik-baik-saja",
+      "ironi",
+      "ig-notes"
+    ]
   },
   {
     "id": "q034",
@@ -327,7 +476,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["burnout", "arah-hidup", "lelah", "quarter-life-crisis"]
+    "tags": [
+      "burnout",
+      "arah-hidup",
+      "lelah",
+      "quarter-life-crisis"
+    ]
   },
   {
     "id": "q035",
@@ -336,7 +490,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["kabur", "burnout", "ig-notes"]
+    "tags": [
+      "kabur",
+      "burnout",
+      "ig-notes"
+    ]
   },
   {
     "id": "q036",
@@ -345,7 +503,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["move-on", "patah-hati", "jujur"]
+    "tags": [
+      "move-on",
+      "patah-hati",
+      "jujur"
+    ]
   },
   {
     "id": "q037",
@@ -354,7 +516,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["curhat", "didengar", "ig-notes"]
+    "tags": [
+      "curhat",
+      "didengar",
+      "ig-notes"
+    ]
   },
   {
     "id": "q038",
@@ -363,7 +529,11 @@
     "category": "Relatable",
     "language": "en",
     "length": "short",
-    "tags": ["overthinking", "lucu", "ig-notes"]
+    "tags": [
+      "overthinking",
+      "lucu",
+      "ig-notes"
+    ]
   },
   {
     "id": "q039",
@@ -372,7 +542,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["anxiety", "overthinking", "ironi", "puitis"]
+    "tags": [
+      "anxiety",
+      "overthinking",
+      "ironi",
+      "puitis"
+    ]
   },
   {
     "id": "q040",
@@ -381,7 +556,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["quarter-life-crisis", "lucu", "malam", "random"]
+    "tags": [
+      "quarter-life-crisis",
+      "lucu",
+      "malam",
+      "random"
+    ]
   },
   {
     "id": "q041",
@@ -390,7 +570,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["mental-health", "izin-lemah", "ig-notes"]
+    "tags": [
+      "mental-health",
+      "izin-lemah",
+      "ig-notes"
+    ]
   },
   {
     "id": "q042",
@@ -399,7 +583,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["istirahat", "burnout", "ig-notes"]
+    "tags": [
+      "istirahat",
+      "burnout",
+      "ig-notes"
+    ]
   },
   {
     "id": "q043",
@@ -408,7 +596,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["topeng", "pura-pura", "sosial", "lelah"]
+    "tags": [
+      "topeng",
+      "pura-pura",
+      "sosial",
+      "lelah"
+    ]
   },
   {
     "id": "q044",
@@ -417,7 +610,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["jati-diri", "self-discovery", "puitis"]
+    "tags": [
+      "jati-diri",
+      "self-discovery",
+      "puitis"
+    ]
   },
   {
     "id": "q045",
@@ -426,7 +623,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["ekspektasi", "tekanan", "keluarga", "capek"]
+    "tags": [
+      "ekspektasi",
+      "tekanan",
+      "keluarga",
+      "capek"
+    ]
   },
   {
     "id": "q046",
@@ -435,7 +637,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["mimpi", "tidur", "lucu", "ig-notes"]
+    "tags": [
+      "mimpi",
+      "tidur",
+      "lucu",
+      "ig-notes"
+    ]
   },
   {
     "id": "q047",
@@ -444,7 +651,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["diam", "lelah", "komunikasi", "introvert"]
+    "tags": [
+      "diam",
+      "lelah",
+      "komunikasi",
+      "introvert"
+    ]
   },
   {
     "id": "q048",
@@ -453,7 +665,11 @@
     "category": "Relatable",
     "language": "en",
     "length": "medium",
-    "tags": ["langkah-kecil", "motivasi-tipis", "perubahan"]
+    "tags": [
+      "langkah-kecil",
+      "motivasi-tipis",
+      "perubahan"
+    ]
   },
   {
     "id": "q049",
@@ -462,7 +678,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["hujan", "malam", "sendu", "ig-notes"]
+    "tags": [
+      "hujan",
+      "malam",
+      "sendu",
+      "ig-notes"
+    ]
   },
   {
     "id": "q050",
@@ -471,7 +692,12 @@
     "category": "Relatable",
     "language": "id",
     "length": "long",
-    "tags": ["istirahat", "self-care", "izin", "burnout"]
+    "tags": [
+      "istirahat",
+      "self-care",
+      "izin",
+      "burnout"
+    ]
   },
   {
     "id": "q051",
@@ -480,7 +706,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "medium",
-    "tags": ["jujur", "lucu", "random"]
+    "tags": [
+      "jujur",
+      "lucu",
+      "random"
+    ]
   },
   {
     "id": "q052",
@@ -489,7 +719,11 @@
     "category": "Relatable",
     "language": "id",
     "length": "short",
-    "tags": ["self-paced", "perbandingan", "ig-notes"]
+    "tags": [
+      "self-paced",
+      "perbandingan",
+      "ig-notes"
+    ]
   },
   {
     "id": "q053",
@@ -498,6 +732,5729 @@
     "category": "Relatable",
     "language": "en",
     "length": "medium",
-    "tags": ["pertumbuhan", "motivasi", "progres"]
+    "tags": [
+      "pertumbuhan",
+      "motivasi",
+      "progres"
+    ]
+  },
+  {
+    "id": "q054",
+    "text": "Yang fana adalah waktu. Kita abadi: memungut detik demi detik, merangkainya seperti bunga.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Yang Fana Adalah Waktu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "nostalgia-trip",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q055",
+    "text": "Kalian boleh maju dalam pelajaran, mungkin mendapat pangkat, tapi tanpa mencintai sastra, kalian hanya hewan yang cerdik.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Bumi Manusia",
+    "category": "Sastra",
+    "language": "id",
+    "length": "long",
+    "tags": [
+      "jati-diri",
+      "arah-hidup",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q056",
+    "text": "Aku ini binatang jalang dari kumpulannya yang terbuang.",
+    "author": "Chairil Anwar",
+    "source": "Aku",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "sepi",
+      "kesepian",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q057",
+    "text": "And once the storm is over, you won't remember how you made it through, how you managed to survive.",
+    "author": "Haruki Murakami",
+    "source": "Kafka on the Shore",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "arah-hidup",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q058",
+    "text": "I saw my life branching out before me like the green fig tree in the story.",
+    "author": "Sylvia Plath",
+    "source": "The Bell Jar",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "anxiety",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q059",
+    "text": "Satu hal yang pasti, kita tidak akan pernah sama lagi setelah badai ini mereda.",
+    "author": "Dee Lestari",
+    "source": "Perahu Kertas",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "melankolis",
+      "progres"
+    ]
+  },
+  {
+    "id": "q060",
+    "text": "Di tengah musim dingin, akhirnya aku tahu bahwa dalam diriku ada musim panas yang tak terkalahkan.",
+    "author": "Albert Camus",
+    "source": "Return to Tipasa",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "baik-baik-saja",
+      "langkah-kecil"
+    ]
+  },
+  {
+    "id": "q061",
+    "text": "how you love yourself is how you teach others to love you",
+    "author": "Rupi Kaur",
+    "source": "Milk and Honey",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q062",
+    "text": "Siapa yang memiliki alasan untuk hidup dapat menanggung hampir semua beban dengan cara apa pun.",
+    "author": "Friedrich Nietzsche",
+    "source": "Twilight of the Idols",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "tekanan",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q063",
+    "text": "Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang di dalam masyarakat.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Anak Semua Bangsa",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "escapism",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q064",
+    "text": "No need to hurry. No need to sparkle. No need to be anybody but oneself.",
+    "author": "Virginia Woolf",
+    "source": "A Room of One's Own",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-paced",
+      "self-discovery",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q065",
+    "text": "Sesaat adalah abadi. Sebelum kau sapu bersih sisa abu rokokmu di atas meja.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Hujan Bulan Juni",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "sepi",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q066",
+    "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald",
+    "source": "The Great Gatsby",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "escapism",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q067",
+    "text": "Lepaskanlah. Maka besok lusa, jika dia kembali, dia adalah milikmu. Jika tidak, dia memang bukan takdirmu.",
+    "author": "Tere Liye",
+    "source": "Rindu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "move-on",
+      "patah-hati",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q068",
+    "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-care",
+      "anxiety",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q069",
+    "text": "Luka adalah tempat di mana cahaya memasuki dirimu.",
+    "author": "Jalaluddin Rumi",
+    "source": "Fihi Ma Fihi",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "progres",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q070",
+    "text": "To love oneself is the beginning of a lifelong romance.",
+    "author": "Oscar Wilde",
+    "source": "An Ideal Husband",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q071",
+    "text": "Sebab ingatan seperti rumah. Ia memiliki sudut-sudut gelap yang sengaja tak diberi lampu.",
+    "author": "Ayu Utami",
+    "source": "Saman",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "sepi",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q072",
+    "text": "Hiduplah untuk memberi yang sebanyak-banyaknya, bukan untuk menerima yang sebanyak-banyaknya.",
+    "author": "Andrea Hirata",
+    "source": "Laskar Pelangi",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "self-discovery",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q073",
+    "text": "Masa depan memasuki diri kita, untuk mengubah diri kita, jauh sebelum masa depan itu terjadi.",
+    "author": "Rainer Maria Rilke",
+    "source": "Letters to a Young Poet",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q074",
+    "text": "Life can only be understood backwards; but it must be lived forwards.",
+    "author": "Soren Kierkegaard",
+    "source": "Journals",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "overthinking",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q075",
+    "text": "Aku ingin melakukan denganmu apa yang dilakukan musim semi dengan pohon-pohon ceri.",
+    "author": "Pablo Neruda",
+    "source": "Twenty Love Poems and a Song of Despair",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "sendu",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q076",
+    "text": "Seseorang tidak dilahirkan sebagai wanita, melainkan ia menjadi wanita.",
+    "author": "Simone de Beauvoir",
+    "source": "The Second Sex",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "self-discovery",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q077",
+    "text": "Nasib adalah kesunyian masing-masing.",
+    "author": "Chairil Anwar",
+    "source": "Deru Campur Debu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "sepi",
+      "kesepian",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q078",
+    "text": "Kita tidak pernah bisa memilih di mana kita akan jatuh cinta, namun kita bisa memilih untuk bertahan atau melepaskan.",
+    "author": "Dee Lestari",
+    "source": "Madre",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "move-on",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q079",
+    "text": "Pada suatu hari nanti jasadku tak akan ada lagi, tapi dalam bait-bait puisi ini kau takkan sepi.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Pada Suatu Hari Nanti",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "melankolis",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q080",
+    "text": "Kalian boleh maju dalam pelajaran, mungkin tanpa batas, tapi tanpa cinta, kalian takkan pernah merdeka.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Bumi Manusia",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "arah-hidup",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q081",
+    "text": "Aku ini binatang jalang, dari kumpulannya terbuang.",
+    "author": "Chairil Anwar",
+    "source": "Aku",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "sepi",
+      "jati-diri",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q082",
+    "text": "Kita tidak pernah bisa memilih kepada siapa jatuh cinta, tapi kita bisa memilih kapan harus melepaskan.",
+    "author": "Dee Lestari",
+    "source": "Perahu Kertas",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "self-discovery",
+      "move-on"
+    ]
+  },
+  {
+    "id": "q083",
+    "text": "I took a deep breath and listened to the old brag of my heart. I am, I am, I am.",
+    "author": "Sylvia Plath",
+    "source": "The Bell Jar",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "mental-health",
+      "self-discovery",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q084",
+    "text": "Pain is inevitable. Suffering is optional.",
+    "author": "Haruki Murakami",
+    "source": "What I Talk About When I Talk About Running",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-paced",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q085",
+    "text": "In the midst of winter, I found there was, within me, an invincible summer.",
+    "author": "Albert Camus",
+    "source": "The Stranger",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "progres",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q086",
+    "text": "Siapa yang memiliki alasan untuk hidup, akan mampu menanggung hampir setiap bagaimana.",
+    "author": "Friedrich Nietzsche",
+    "source": "Götzen-Dämmerung",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q087",
+    "text": "Luka adalah tempat di mana cahaya memasuki tubuhmu.",
+    "author": "Jalaluddin Rumi",
+    "source": "Puisi Rumi",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q088",
+    "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald",
+    "source": "The Great Gatsby",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "melankolis",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q089",
+    "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "source": "The Soul of Man under Socialism",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q090",
+    "text": "No need to hurry. No need to sparkle. No need to be anybody but oneself.",
+    "author": "Virginia Woolf",
+    "source": "A Room of One's Own",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-paced",
+      "jati-diri",
+      "introvert"
+    ]
+  },
+  {
+    "id": "q091",
+    "text": "Sebab bagian terbaik dari mencintai adalah melepaskan dengan keikhlasan.",
+    "author": "Tere Liye",
+    "source": "Sunset Bersama Rosie",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "move-on"
+    ]
+  },
+  {
+    "id": "q092",
+    "text": "Kita adalah sepasang sunyi yang saling melengkapi.",
+    "author": "Ayu Utami",
+    "source": "Saman",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "sepi",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q093",
+    "text": "Aku ingin berjalan bersamamu dalam rintik hujan, mencari jejak sunyi yang tertinggal.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Hujan Bulan Juni",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "nostalgia-trip",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q094",
+    "text": "Cintailah kesunyianmu, dan tanggunglah penderitaan yang disebabkannya dengan nyanyian yang merdu.",
+    "author": "Rainer Maria Rilke",
+    "source": "Letters to a Young Poet",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "self-discovery",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q095",
+    "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-care",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q096",
+    "text": "how you love yourself is how you teach others to love you",
+    "author": "Rupi Kaur",
+    "source": "Milk and Honey",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q097",
+    "text": "Kau terpelajar, cobalah bersikap adil sejak dalam pikiran, apalagi dalam perbuatan.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Bumi Manusia",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q098",
+    "text": "Aku ingin menjadi bebas, seutuhnya bebas untuk menentukan siapa diriku yang sebenarnya.",
+    "author": "Simone de Beauvoir",
+    "source": "All Men Are Mortal",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q099",
+    "text": "Aku menyukaimu saat kau diam karena kau seolah tak ada, dan kau mendengarku dari jauh.",
+    "author": "Pablo Neruda",
+    "source": "Twenty Love Poems and a Song of Despair",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q100",
+    "text": "Kecemasan adalah pusingnya kebebasan.",
+    "author": "Soren Kierkegaard",
+    "source": "The Concept of Anxiety",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "anxiety",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q101",
+    "text": "Kehilangan bukan sekadar kekosongan, melainkan kehadiran ruang kosong yang menolak diisi.",
+    "author": "Haruki Murakami",
+    "source": "Norwegian Wood",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "melankolis",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q102",
+    "text": "Aku menatap ke sekeliling, namun tak satu pun dari jalan-jalan ini yang tampak mengarah padaku.",
+    "author": "Sylvia Plath",
+    "source": "The Bell Jar",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "kesepian",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q103",
+    "text": "Kita semua adalah orang asing bagi satu sama lain, berpura-pura saling mengenal.",
+    "author": "F. Scott Fitzgerald",
+    "source": "The Great Gatsby",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q104",
+    "text": "Sebab hidup teramat singkat untuk membiarkan rindu menguap begitu saja tanpa sempat kita katakan.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Hujan Bulan Juni",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "sendu",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q105",
+    "text": "I took a deep breath and listened to the old brag of my heart. I am, I am, I am.",
+    "author": "Sylvia Plath",
+    "source": "The Bell Jar",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "mental-health",
+      "self-discovery",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q106",
+    "text": "Kalian boleh maju dalam pelajaran, mungkin tidak akan pernah maju dalam hidup tanpa tahu apa itu cinta.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Bumi Manusia",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "arah-hidup",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q107",
+    "text": "And once the storm is over, you won't remember how you made it through, how you managed to survive.",
+    "author": "Haruki Murakami",
+    "source": "Kafka on the Shore",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "escapism",
+      "baik-baik-saja",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q108",
+    "text": "Aku ini binatang jalang dari kumpulannya yang terbuang.",
+    "author": "Chairil Anwar",
+    "source": "Aku",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "introvert",
+      "sepi",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q109",
+    "text": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "author": "Albert Camus",
+    "source": "The Stranger",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "progres",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q110",
+    "text": "Kita tidak pernah bisa memilih dengan siapa kita jatuh cinta, tapi kita bisa memilih untuk tetap melangkah.",
+    "author": "Dee Lestari",
+    "source": "Perahu Kertas",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "move-on",
+      "patah-hati",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q111",
+    "text": "how you love yourself is how you teach others to love you",
+    "author": "Rupi Kaur",
+    "source": "Milk and Honey",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery",
+      "progres"
+    ]
+  },
+  {
+    "id": "q112",
+    "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "tekanan",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q113",
+    "text": "Lepaskanlah. Maka besok lusa kamu akan melihat, semua itu hanya sebagian kecil dari perjalanan panjangmu.",
+    "author": "Tere Liye",
+    "source": "Rindu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "move-on",
+      "langkah-kecil",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q114",
+    "text": "Sebab cinta tidak pernah datang terlambat. Kita saja yang tidak sabar menunggunya di persimpangan.",
+    "author": "Ayu Utami",
+    "source": "Saman",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "self-paced",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q115",
+    "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald",
+    "source": "The Great Gatsby",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "melankolis",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q116",
+    "text": "Luka adalah tempat di mana cahaya memasuki tubuhmu.",
+    "author": "Jalaluddin Rumi",
+    "source": "Fihi Ma Fihi",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "self-discovery",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q117",
+    "text": "Bermimpilah, karena Tuhan akan memeluk mimpi-mimpi itu.",
+    "author": "Andrea Hirata",
+    "source": "Laskar Pelangi",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "langkah-kecil",
+      "escapism",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q118",
+    "text": "He who has a why to live for can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "source": "Twilight of the Idols",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "arah-hidup",
+      "self-discovery",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q119",
+    "text": "To love oneself is the beginning of a lifelong romance.",
+    "author": "Oscar Wilde",
+    "source": "An Ideal Husband",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q120",
+    "text": "Pada suatu hari nanti jasadku tak akan ada lagi, tapi dalam bait-bait puisi ini kau takkan sendiri.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Hujan Bulan Juni",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "sendu",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q121",
+    "text": "I am rooted, but I flow.",
+    "author": "Virginia Woolf",
+    "source": "The Waves",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-paced",
+      "jati-diri",
+      "progres"
+    ]
+  },
+  {
+    "id": "q122",
+    "text": "Menulislah, karena tanpa menulis engkau akan hilang dari pusaran sejarah dan ingatan manusia.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Rumah Kaca",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "escapism",
+      "self-discovery",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q123",
+    "text": "Seseorang tidak terlahir sebagai wanita, melainkan ia menjadi wanita dengan segala beban dunianya.",
+    "author": "Simone de Beauvoir",
+    "source": "The Second Sex",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "tekanan",
+      "jati-diri",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q124",
+    "text": "Biarkan segalanya terjadi padamu: keindahan dan ketakutan. Teruslah melangkah, tak ada perasaan yang final.",
+    "author": "Rainer Maria Rilke",
+    "source": "Letters to a Young Poet",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "baik-baik-saja",
+      "self-paced",
+      "langkah-kecil"
+    ]
+  },
+  {
+    "id": "q125",
+    "text": "Aku ingin melakukan kepadamu apa yang musim semi lakukan pada pohon ceri.",
+    "author": "Pablo Neruda",
+    "source": "Twenty Love Poems and a Song of Despair",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "sendu",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q126",
+    "text": "Kecemasan adalah pusingnya kebebasan ketika ia harus memilih jalannya sendiri.",
+    "author": "Soren Kierkegaard",
+    "source": "The Concept of Anxiety",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "anxiety",
+      "overthinking",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q127",
+    "text": "Kenangan itu cuma hantu di sudut kamar, tidak perlu ditakuti tapi tidak usah diajak bicara.",
+    "author": "Dee Lestari",
+    "source": "Madre",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "move-on",
+      "nostalgia-trip",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q128",
+    "text": "Nasib adalah kesunyian masing-masing, yang harus kita tanggung tanpa pernah perlu mengeluh.",
+    "author": "Chairil Anwar",
+    "source": "Deru Campur Debu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "kesepian",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q129",
+    "text": "Sebab hidup itu sendiri adalah sebuah perjalanan yang sunyi, tempat kita belajar melepaskan tanpa harus membenci.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Hujan Bulan Juni",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "melankolis",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q130",
+    "text": "I took a deep breath and listened to the old brag of my heart. I am, I am, I am.",
+    "author": "Sylvia Plath",
+    "source": "The Bell Jar",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "mental-health",
+      "self-discovery",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q131",
+    "text": "Kalian boleh maju dalam pelajaran, mungkin tanpa batas, tapi tanpa cinta, kalian akan tetap kerdil.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Bumi Manusia",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "jati-diri",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q132",
+    "text": "And once the storm is over, you won’t remember how you made it through, how you managed to survive.",
+    "author": "Haruki Murakami",
+    "source": "Kafka on the Shore",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "escapism",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q133",
+    "text": "Aku ini binatang jalang dari kumpulannya yang terbuang.",
+    "author": "Chairil Anwar",
+    "source": "Aku",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "sepi",
+      "jati-diri",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q134",
+    "text": "Kita tidak pernah bisa memilih dari hati mana cinta kita akan tumbuh, juga kepada siapa ia akan runtuh.",
+    "author": "Dee Lestari",
+    "source": "Perahu Kertas",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "melankolis",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q135",
+    "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "author": "F. Scott Fitzgerald",
+    "source": "The Great Gatsby",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "melankolis",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q136",
+    "text": "Luka adalah tempat di mana cahaya memasuki dirimu.",
+    "author": "Jalaluddin Rumi",
+    "source": "Matsnawi",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q137",
+    "text": "Do not look for healing at the feet of those who broke you.",
+    "author": "Rupi Kaur",
+    "source": "Milk and Honey",
+    "category": "Sastra",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q138",
+    "text": "Kenangan selalu punya cara untuk kembali, bahkan ketika kita sudah melangkah sejauh mungkin.",
+    "author": "Ayu Utami",
+    "source": "Saman",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "melankolis",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q139",
+    "text": "Bermimpilah, karena Tuhan akan memeluk mimpi-mimpimu.",
+    "author": "Andrea Hirata",
+    "source": "Laskar Pelangi",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "escapism",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q140",
+    "text": "In the midst of winter, I found there was, within me, an invincible summer.",
+    "author": "Albert Camus",
+    "source": "The Stranger",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q141",
+    "text": "Lepaskanlah, maka besok lusa kamu akan melihat bahwa melepaskan tidak seburuk yang kamu bayangkan.",
+    "author": "Tere Liye",
+    "source": "Rindu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "arah-hidup",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q142",
+    "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "source": "The Soul of Man under Socialism",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q143",
+    "text": "Yang fana adalah waktu. Kita abadi.",
+    "author": "Sapardi Djoko Damono",
+    "source": "Yang Fana Adalah Waktu",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q144",
+    "text": "Menulislah, karena tanpa menulis engkau akan hilang dari masyarakat dan sejarah.",
+    "author": "Pramoedya Ananta Toer",
+    "source": "Anak Semua Bangsa",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q145",
+    "text": "Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
+    "author": "Rainer Maria Rilke",
+    "source": "Letters to a Young Poet",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q146",
+    "text": "Dia yang memiliki mengapa untuk hidup dapat menanggung hampir semua bagaimana.",
+    "author": "Friedrich Nietzsche",
+    "source": "Meninggalkan Berhala",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q147",
+    "text": "Seseorang tidak dilahirkan sebagai wanita, melainkan menjadi wanita.",
+    "author": "Simone de Beauvoir",
+    "source": "The Second Sex",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q148",
+    "text": "No need to hurry. No need to sparkle. No need to be anybody but oneself.",
+    "author": "Virginia Woolf",
+    "source": "A Room of One's Own",
+    "category": "Sastra",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "jati-diri",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q149",
+    "text": "Kamu memiliki kendali atas pikiranmu sendiri, bukan peristiwa di luar sana. Sadarilah ini, dan kamu akan menemukan kekuatan.",
+    "author": "Marcus Aurelius",
+    "source": "Meditations",
+    "category": "Sastra",
+    "language": "id",
+    "length": "long",
+    "tags": [
+      "overthinking",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q150",
+    "text": "Kadang-kadang, kesunyian adalah hal yang paling berisik di dalam kepala kita sendiri.",
+    "author": "Haruki Murakami",
+    "source": "Norwegian Wood",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "overthinking",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q151",
+    "text": "Kecemasan adalah pusingnya kebebasan.",
+    "author": "Soren Kierkegaard",
+    "source": "The Concept of Anxiety",
+    "category": "Sastra",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "anxiety",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q152",
+    "text": "Aku ingin melakukan denganmu apa yang dilakukan musim semi pada pohon ceri.",
+    "author": "Pablo Neruda",
+    "source": "Twenty Love Poems and a Song of Despair",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q153",
+    "text": "Ada batas tipis antara menunggu dengan setia dan membuang waktu dengan sia-sia.",
+    "author": "Dee Lestari",
+    "source": "Supernova",
+    "category": "Sastra",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "patah-hati",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q154",
+    "text": "And in that moment, I swear we were infinite.",
+    "author": "Charlie, The Perks of Being a Wallflower",
+    "source": "The Perks of Being a Wallflower",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "euphoria",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q155",
+    "text": "Please let me keep this memory, just this one.",
+    "author": "Joel, Eternal Sunshine of the Spotless Mind",
+    "source": "Eternal Sunshine of the Spotless Mind",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "melankolis",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q156",
+    "text": "I'm writing a letter to the girl I used to love. The girl I thought I'd spend the rest of my life with.",
+    "author": "Theodore, Her",
+    "source": "Her",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q157",
+    "text": "I wish I could live through something.",
+    "author": "Lady Bird, Lady Bird",
+    "source": "Lady Bird",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q158",
+    "text": "Sedih itu perlu dipeluk, bukan cuma pura-pura kuat.",
+    "author": "Awan, Nanti Kita Cerita tentang Hari Ini",
+    "source": "Nanti Kita Cerita tentang Hari Ini",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "izin-lemah",
+      "mental-health",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q159",
+    "text": "Right now, there's sorrow, pain. Don't kill it and with it the joy you've felt.",
+    "author": "Mr. Perlman, Call Me by Your Name",
+    "source": "Call Me by Your Name",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "coming-of-age",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q160",
+    "text": "I think you know how to love better than any of us. That's why you find it all so painful.",
+    "author": "Claire, Fleabag",
+    "source": "Fleabag",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "mental-health",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q161",
+    "text": "Sometimes life's a bitch and then you keep living.",
+    "author": "Diane Nguyen, Bojack Horseman",
+    "source": "Bojack Horseman",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "capek",
+      "baik-baik-saja",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q162",
+    "text": "Timbangan itu cuma nunjukin angka, bukan nilai diri kita.",
+    "author": "Rara, Imperfect",
+    "source": "Imperfect",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q163",
+    "text": "You're not perfect, sport. And let me save you the suspense. This girl you met, she isn't perfect either.",
+    "author": "Sean Maguire, Good Will Hunting",
+    "source": "Good Will Hunting",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "baik-baik-saja",
+      "curhat"
+    ]
+  },
+  {
+    "id": "q164",
+    "text": "Salahkah aku bila kuinginkan mesra? Aku hanya manusia yang punya cinta.",
+    "author": "Cinta, Ada Apa Dengan Cinta",
+    "source": "Ada Apa Dengan Cinta",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "patah-hati",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q165",
+    "text": "People don't realize this but loneliness is underrated.",
+    "author": "Tom Hansen, 500 Days of Summer",
+    "source": "500 Days of Summer",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "introvert"
+    ]
+  },
+  {
+    "id": "q166",
+    "text": "It’s not like I’m lonely, I just feel like I’m always on the outside of things.",
+    "author": "Marianne, Normal People",
+    "source": "Normal People",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "kesepian",
+      "introvert",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q167",
+    "text": "Sesempurna apa pun kopi yang kamu buat, kopi tetap kopi, punya sisi pahit yang tak mungkin kamu sembunyikan.",
+    "author": "Ben, Filosofi Kopi",
+    "source": "Filosofi Kopi",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "baik-baik-saja",
+      "self-discovery",
+      "topeng"
+    ]
+  },
+  {
+    "id": "q168",
+    "text": "Once you've met someone you never really forget them. It just takes a while for your memories to return.",
+    "author": "Zeniba, Spirited Away",
+    "source": "Spirited Away",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "escapism",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q169",
+    "text": "Every time I feel good, I think it's gonna last forever, but it doesn't.",
+    "author": "Rue Bennett, Euphoria",
+    "source": "Euphoria",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "anxiety",
+      "burnout",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q170",
+    "text": "I need you to tell me that I'm a good person.",
+    "author": "BoJack, Bojack Horseman",
+    "source": "Bojack Horseman",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "anxiety",
+      "self-discovery",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q171",
+    "text": "Jangan rindu, berat. Kau tidak akan kuat, biar aku saja.",
+    "author": "Dilan, Dilan 1990",
+    "source": "Dilan 1990",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "nostalgia-trip",
+      "curhat",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q172",
+    "text": "I paid attention, but I didn't know what to do with the attention.",
+    "author": "Charlie Barber, Marriage Story",
+    "source": "Marriage Story",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "overthinking",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q173",
+    "text": "Kamu tahu rencana apa yang tidak pernah gagal? Tidak merencanakan apa pun.",
+    "author": "Ki-taek, Parasite",
+    "source": "Parasite",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "quarter-life-crisis",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q174",
+    "text": "They say that the best blaze burns brightest when circumstances are at their worst.",
+    "author": "Calcifer, Howl's Moving Castle",
+    "source": "Howl's Moving Castle",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "escapism",
+      "progres",
+      "langkah-kecil"
+    ]
+  },
+  {
+    "id": "q175",
+    "text": "Bumi sedang berputar, tenang, semua ada porsinya masing-masing.",
+    "author": "Kale, Nanti Kita Cerita tentang Hari Ini",
+    "source": "Nanti Kita Cerita tentang Hari Ini",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-paced",
+      "baik-baik-saja",
+      "langkah-kecil"
+    ]
+  },
+  {
+    "id": "q176",
+    "text": "Sometimes the people we like don't like us back, and it's painful, but there's nothing we can do.",
+    "author": "Otis Milburn, Sex Education",
+    "source": "Sex Education",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "move-on",
+      "heartbreak-anthem"
+    ]
+  },
+  {
+    "id": "q177",
+    "text": "Hiduplah tanpa merasa lebih baik dari orang lain.",
+    "author": "Lintang, Laskar Pelangi",
+    "source": "Laskar Pelangi",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q178",
+    "text": "At some point, you gotta decide for yourself who you're gonna be. Can't let nobody decide that for you.",
+    "author": "Juan, Moonlight",
+    "source": "Moonlight",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q179",
+    "text": "I love you. It will pass.",
+    "author": "Fleabag, Fleabag",
+    "source": "Fleabag",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "melankolis",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q180",
+    "text": "Too many guys think I'm a concept, or I complete them, or I'm gonna make them alive.",
+    "author": "Clementine, Eternal Sunshine of the Spotless Mind",
+    "source": "Eternal Sunshine of the Spotless Mind",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "kesepian",
+      "topeng"
+    ]
+  },
+  {
+    "id": "q181",
+    "text": "Sedih itu perlu, kecewa itu harus. Dari sana kita belajar untuk tahu mana yang berharga.",
+    "author": "Awan, Nanti Kita Cerita tentang Hari Ini",
+    "source": "Nanti Kita Cerita tentang Hari Ini",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "baik-baik-saja",
+      "langkah-kecil",
+      "progres"
+    ]
+  },
+  {
+    "id": "q182",
+    "text": "Sometimes I think I have felt everything I'm ever gonna feel. And from here on out, I'm not gonna feel anything new.",
+    "author": "Theodore, Her",
+    "source": "Her",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "anxiety",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q183",
+    "text": "It's not like this with other people.",
+    "author": "Connell, Normal People",
+    "source": "Normal People",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "melankolis",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q184",
+    "text": "Salahmu sendiri, kenapa kamu mengikatkan diri pada hal yang sudah pasti akan menyakitimu.",
+    "author": "Cinta, Ada Apa Dengan Cinta",
+    "source": "Ada Apa Dengan Cinta",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "overthinking",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q185",
+    "text": "It gets easier. Everyday it gets a little easier. But you gotta do it everyday, that's the hard part.",
+    "author": "Jogging Baboon, Bojack Horseman",
+    "source": "Bojack Horseman",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "progres",
+      "langkah-kecil",
+      "capek"
+    ]
+  },
+  {
+    "id": "q186",
+    "text": "I want to live through something.",
+    "author": "Lady Bird, Lady Bird",
+    "source": "Lady Bird",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "coming-of-age",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q187",
+    "text": "Right now, there's sorrow, pain. Don't kill it and with it the joy you've felt.",
+    "author": "Mr. Perlman, Call Me by Your Name",
+    "source": "Call Me by Your Name",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "izin-lemah",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q188",
+    "text": "Timbangan itu cuma nunjukin angka, bukan nilai diri kita.",
+    "author": "Rara, Imperfect",
+    "source": "Imperfect",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "mental-health",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q189",
+    "text": "And in this moment, I swear we are infinite.",
+    "author": "Charlie, The Perks of Being a Wallflower",
+    "source": "The Perks of Being a Wallflower",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "euphoria",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q190",
+    "text": "Setiap hal yang punya rasa, punya nyawa.",
+    "author": "Ben, Filosofi Kopi",
+    "source": "Filosofi Kopi",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "melankolis",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q191",
+    "text": "Every time I feel good, I think it's gonna last forever, but it doesn't.",
+    "author": "Rue, Euphoria",
+    "source": "Euphoria",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "mental-health",
+      "anxiety",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q192",
+    "text": "People don't realize this, but loneliness is underrated.",
+    "author": "Tom, 500 Days of Summer",
+    "source": "500 Days of Summer",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "introvert"
+    ]
+  },
+  {
+    "id": "q193",
+    "text": "Bermimpilah, karena Tuhan akan memeluk mimpi-mimpimu.",
+    "author": "Ikal, Laskar Pelangi",
+    "source": "Laskar Pelangi",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "arah-hidup",
+      "self-paced",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q194",
+    "text": "They say that the best blaze burns brightest when circumstances are at their worst.",
+    "author": "Sophie, Howl's Moving Castle",
+    "source": "Howl's Moving Castle",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "tekanan",
+      "escapism",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q195",
+    "text": "Rencana terbaik adalah tidak punya rencana sama sekali. Karena hidup tidak pernah berjalan sesuai rencana.",
+    "author": "Ki-taek, Parasite",
+    "source": "Parasite",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "quarter-life-crisis",
+      "anxiety",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q196",
+    "text": "I knew I could never get those years back, and I wanted them back.",
+    "author": "Nicole, Marriage Story",
+    "source": "Marriage Story",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "nostalgia-trip",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q197",
+    "text": "At some point, you gotta decide for yourself who you're gonna be. Can't let nobody decide that for you.",
+    "author": "Juan, Moonlight",
+    "source": "Moonlight",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q198",
+    "text": "Jangan rindu, berat. Kau tidak akan kuat, biar aku saja.",
+    "author": "Dilan, Dilan 1990",
+    "source": "Dilan 1990",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "nostalgia-trip",
+      "curhat",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q199",
+    "text": "You're not perfect, sport. And let me save you the suspense. This girl you met, she's not perfect either.",
+    "author": "Sean, Good Will Hunting",
+    "source": "Good Will Hunting",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "baik-baik-saja",
+      "self-care",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q200",
+    "text": "I think you know how to love better than any of us. That's why you find it all so painful.",
+    "author": "Claire, Fleabag",
+    "source": "Fleabag",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "sendu",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q201",
+    "text": "The only way to beat my crazy was by doing something crazy myself.",
+    "author": "Pat, Silver Linings Playbook",
+    "source": "Silver Linings Playbook",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "mental-health",
+      "self-discovery",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q202",
+    "text": "Ternyata, pura-pura bahagia itu jauh lebih melelahkan daripada mengakui kalau kita lagi sedih.",
+    "author": "Aurora, Nanti Kita Cerita tentang Hari Ini",
+    "source": "Nanti Kita Cerita tentang Hari Ini",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "capek",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q203",
+    "text": "Kita nggak perlu sempurna untuk bisa bahagia. Penerimaan adalah kunci.",
+    "author": "Fey, Imperfect",
+    "source": "Imperfect",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-care",
+      "baik-baik-saja",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q204",
+    "text": "Too many guys think I'm a concept, or I complete them, or I'm gonna make them alive.",
+    "author": "Clementine, Eternal Sunshine of the Spotless Mind",
+    "source": "Eternal Sunshine of the Spotless Mind",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q205",
+    "text": "Sometimes I think I have felt everything I'm ever gonna feel. And from here on out, I'm not gonna feel anything new.",
+    "author": "Theodore, Her",
+    "source": "Her",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "anxiety",
+      "sepi",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q206",
+    "text": "I want to live through something. I want to go to a city where there is culture.",
+    "author": "Lady Bird, Lady Bird",
+    "source": "Lady Bird",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "arah-hidup",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q207",
+    "text": "Right now, there's sorrow, pain. Don't kill it and with it the joy you've felt.",
+    "author": "Mr. Perlman, Call Me by Your Name",
+    "source": "Call Me by Your Name",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "sendu",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q208",
+    "text": "Marah itu wajar, sedih itu perlu. Bumi gak melulu berputar hanya untuk bikin kita bahagia.",
+    "author": "Awan, Nanti Kita Cerita tentang Hari Ini",
+    "source": "Nanti Kita Cerita tentang Hari Ini",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "mental-health",
+      "baik-baik-saja",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q209",
+    "text": "I think you know how to love better than any of us. That's why you find it all so painful.",
+    "author": "Claire, Fleabag",
+    "source": "Fleabag",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "melankolis",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q210",
+    "text": "It's not like I'm hurting myself. I just feel like I'm not actually there half the time.",
+    "author": "Marianne, Normal People",
+    "source": "Normal People",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "introvert",
+      "sepi",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q211",
+    "text": "Salahmu sendiri, mengapa kamu kumpulkan semua kenangan indah itu di dalam matamu?",
+    "author": "Rangga, Ada Apa Dengan Cinta",
+    "source": "Ada Apa Dengan Cinta",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "nostalgia-trip",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q212",
+    "text": "People don't realize this, but loneliness is underestimated.",
+    "author": "Tom Hansen, 500 Days of Summer",
+    "source": "500 Days of Summer",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q213",
+    "text": "Sometimes life's a bitch and then you keep living.",
+    "author": "Diane Nguyen, Bojack Horseman",
+    "source": "Bojack Horseman",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "burnout",
+      "capek",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q214",
+    "text": "Tumbuh itu ke atas, bukan ke samping. Tapi hati kita tumbuhnya ke dalam, kan?",
+    "author": "Rara, Imperfect",
+    "source": "Imperfect",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q215",
+    "text": "And in that moment, I swear we were infinite.",
+    "author": "Charlie, The Perks of Being a Wallflower",
+    "source": "The Perks of Being a Wallflower",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "euphoria",
+      "coming-of-age",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q216",
+    "text": "You're not perfect, sport. And let me save you the suspense. This girl you met, she isn't perfect either.",
+    "author": "Sean Maguire, Good Will Hunting",
+    "source": "Good Will Hunting",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "arah-hidup",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q217",
+    "text": "Sesempurna apa pun kopi yang kamu buat, kopi tetap kopi, punya sisi pahit yang tak mungkin kamu sembunyikan.",
+    "author": "Ben, Filosofi Kopi",
+    "source": "Filosofi Kopi",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "topeng",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q218",
+    "text": "We used to look up at the sky and wonder at our place in the stars. Now we just look down and worry about our place in the dirt.",
+    "author": "Cooper, Interstellar",
+    "source": "Interstellar",
+    "category": "Film",
+    "language": "en",
+    "length": "long",
+    "tags": [
+      "arah-hidup",
+      "quarter-life-crisis",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q219",
+    "text": "Once you've met someone you never really forget them. It just takes a while for their memories to return.",
+    "author": "Zeniba, Spirited Away",
+    "source": "Spirited Away",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "coming-of-age",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q220",
+    "text": "Uang itu seperti setrika. Menyetrika semua lipatan dan masalah sampai jadi halus.",
+    "author": "Chung-sook, Parasite",
+    "source": "Parasite",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "tekanan",
+      "burnout",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q221",
+    "text": "I knew him for two seconds and I jumped in. I just paved myself over for him.",
+    "author": "Nicole, Marriage Story",
+    "source": "Marriage Story",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "heartbreak-anthem",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q222",
+    "text": "At some point, you gotta decide for yourself who you're gonna be. Can't let nobody make that decision for you.",
+    "author": "Juan, Moonlight",
+    "source": "Moonlight",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q223",
+    "text": "Jangan rindu. Ini berat. Kau tak akan kuat, biar aku saja.",
+    "author": "Dilan, Dilan 1990",
+    "source": "Dilan 1990",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "sendu",
+      "nostalgia-trip",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q224",
+    "text": "I want someone to tell me what to wear every morning. I want someone to tell me what to eat, what to like, and what to hate.",
+    "author": "Fleabag, Fleabag",
+    "source": "Fleabag",
+    "category": "Film",
+    "language": "en",
+    "length": "long",
+    "tags": [
+      "anxiety",
+      "burnout",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q225",
+    "text": "Suddenly, the whole world goes quiet, and all you can feel is this heavy, aching space inside your chest.",
+    "author": "Rue Bennett, Euphoria",
+    "source": "Euphoria",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "anxiety",
+      "mental-health",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q226",
+    "text": "Sometimes the people we like don't like us back, and it's painful, but there's nothing we can do about it.",
+    "author": "Otis Milburn, Sex Education",
+    "source": "Sex Education",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "move-on",
+      "heartbreak-anthem"
+    ]
+  },
+  {
+    "id": "q227",
+    "text": "Kita dipaksa dewasa oleh keadaan, bukan karena usia kita sudah cukup.",
+    "author": "Aurora, Nanti Kita Cerita tentang Hari Ini",
+    "source": "Nanti Kita Cerita tentang Hari Ini",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "tekanan",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q228",
+    "text": "Cantik itu gak ada standarnya. Kita aja yang terlalu sering dengerin omongan orang lain.",
+    "author": "Fey, Imperfect",
+    "source": "Imperfect",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "baik-baik-saja",
+      "topeng"
+    ]
+  },
+  {
+    "id": "q229",
+    "text": "Sometimes I think I have felt everything I'm ever gonna feel. And from here on out, I'm not gonna feel anything new.",
+    "author": "Theodore, Her",
+    "source": "Her",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q230",
+    "text": "Sabar, satu per satu. Nggak semua hal harus diselesaikan hari ini. Bumi aja muternya pelan-pelan.",
+    "author": "Awan, Nanti Kita Cerita tentang Hari Ini",
+    "source": "Nanti Kita Cerita tentang Hari Ini",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "self-paced",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q231",
+    "text": "It gets easier. Everyday it gets a little easier. But you gotta do it everyday, that's the hard part.",
+    "author": "Jogging Baboon, Bojack Horseman",
+    "source": "Bojack Horseman",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "progres",
+      "langkah-kecil",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q232",
+    "text": "Too many guys think I'm a concept, or I complete them, or I'm gonna make them alive.",
+    "author": "Clementine, Eternal Sunshine of the Spotless Mind",
+    "source": "Eternal Sunshine of the Spotless Mind",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "self-discovery",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q233",
+    "text": "Salahmu sendiri, kenapa kamu mengikatkan diri pada seseorang yang bahkan tidak bisa menjanjikan apa-apa.",
+    "author": "Cinta, Ada Apa Dengan Cinta",
+    "source": "Ada Apa Dengan Cinta",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "patah-hati",
+      "overthinking",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q234",
+    "text": "I want someone to tell me what to wear every morning. I want someone to tell me what to eat, what to like, what to hate.",
+    "author": "Fleabag, Fleabag",
+    "source": "Fleabag",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "anxiety",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q235",
+    "text": "I wish I could live through something.",
+    "author": "Lady Bird, Lady Bird",
+    "source": "Lady Bird",
+    "category": "Film",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "jati-diri",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q236",
+    "text": "Timbangan itu cuma ngukur berat badan, bukan ngukur berharganya diri kamu.",
+    "author": "Rara, Imperfect",
+    "source": "Imperfect",
+    "category": "Film",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-care",
+      "baik-baik-saja",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q237",
+    "text": "It's not like I'm trying to be different. I just don't know how to fit in.",
+    "author": "Marianne, Normal People",
+    "source": "Normal People",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "introvert",
+      "sepi",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q238",
+    "text": "Kita tidak bisa menyamakan kopi dengan air tebu. Sesempurna apa pun kopi yang kamu buat, kopi tetap kopi, punya rasa pahit.",
+    "author": "Ben, Filosofi Kopi",
+    "source": "Filosofi Kopi",
+    "category": "Film",
+    "language": "id",
+    "length": "long",
+    "tags": [
+      "self-paced",
+      "baik-baik-saja",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q239",
+    "text": "You're not perfect, sport, and let me save you the suspense: this girl you met, she's not perfect either.",
+    "author": "Sean Maguire, Good Will Hunting",
+    "source": "Good Will Hunting",
+    "category": "Film",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "baik-baik-saja",
+      "self-care",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q240",
+    "text": "Jangan rindu, ini berat. Kau tak akan kuat, biar aku saja.",
+    "author": "Dilan, Dilan 1990",
+    "source": "Dilan 1990",
+    "category": "Film",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "nostalgia-trip",
+      "sendu",
+      "curhat"
+    ]
+  },
+  {
+    "id": "q241",
+    "text": "Kita terlalu sibuk mencari pembuktian sampai lupa cara menikmati hidup yang pelan.",
+    "author": "Alain de Botton",
+    "source": "Status Anxiety",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "quarter-life-crisis",
+      "burnout",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q242",
+    "text": "Lelahnya hari ini bukan karena fisiknya, tapi isi kepala yang nggak mau berhenti berisik.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "capek",
+      "susah-tidur"
+    ]
+  },
+  {
+    "id": "q243",
+    "text": "Maybe the point of growing up isn't to become someone else, but to accept who we already are.",
+    "author": "Brene Brown",
+    "source": "The Gifts of Imperfection",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "coming-of-age",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q244",
+    "text": "Capek banget pura-pura kalau semuanya baik-baik saja cuma biar orang lain nggak khawatir.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "capek",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q245",
+    "text": "We spend so much time worrying about the future that we miss the small steps we are making today.",
+    "author": "Mark Manson",
+    "source": "The Subtle Art of Not Giving a F*ck",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "progres",
+      "langkah-kecil"
+    ]
+  },
+  {
+    "id": "q246",
+    "text": "Aku cuma butuh waktu untuk tidak melakukan apa-apa tanpa merasa bersalah.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "self-care",
+      "izin-lemah"
+    ]
+  },
+  {
+    "id": "q247",
+    "text": "Ada fase di mana kamu merasa asing dengan dirimu sendiri, dan itu bagian dari proses mencari jalan pulang.",
+    "author": "Alain de Botton",
+    "source": "The Course of Love",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "arah-hidup",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q248",
+    "text": "Ternyata tumbuh dewasa adalah tentang merelakan banyak ekspektasi yang kita buat sendiri saat kecil.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "quarter-life-crisis",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q249",
+    "text": "Be brave enough to be bad at something new. Progress is better than fake perfection.",
+    "author": "Elizabeth Gilbert",
+    "source": "Big Magic",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "progres",
+      "langkah-kecil",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q250",
+    "text": "Jam dua pagi, kasur empuk, tapi isi pikiran rasanya seperti jalanan macet di tengah hujan.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "susah-tidur",
+      "overthinking",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q251",
+    "text": "Nggak apa-apa kok kalau hari ini pencapaianmu cuma bertahan hidup dan bangun dari tempat tidur.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "izin-lemah",
+      "baik-baik-saja",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q252",
+    "text": "Socializing is exhausting. I love my friends, but my room is my only real safe space.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "introvert",
+      "sepi",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q253",
+    "text": "Beberapa jalan memang harus ditempuh sendirian, bukan karena egois, tapi karena ini tentang menemukan siapa dirimu.",
+    "author": "Glennon Doyle",
+    "source": "Untamed",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q254",
+    "text": "Rasanya aneh melihat teman-teman seumuran sudah melangkah jauh, sementara aku masih meraba-raba arah.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "quarter-life-crisis",
+      "arah-hidup",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q255",
+    "text": "Sometimes, the most productive thing you can do is rest without feeling like you are wasting your time.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "self-care",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q256",
+    "text": "Capek harus selalu kelihatan tangguh di depan semua orang. Sekali-sekali pengen dibilang 'kamu capek ya?'",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "curhat",
+      "izin-lemah"
+    ]
+  },
+  {
+    "id": "q257",
+    "text": "Kita ini cuma anak-anak kecil yang terperangkap di tubuh orang dewasa, mencoba terlihat tahu apa yang kita lakukan.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "topeng",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q258",
+    "text": "Ternyata melepas genggaman dari apa yang tidak ditakdirkan untuk kita adalah bentuk tertinggi dari mencintai diri sendiri.",
+    "author": "Glennon Doyle",
+    "source": "Untamed",
+    "category": "Relatable",
+    "language": "id",
+    "length": "long",
+    "tags": [
+      "move-on",
+      "self-care",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q259",
+    "text": "Kerapian hidup yang dipamerkan di media sosial sering kali membuat kita lupa bahwa di balik layar, semua orang sedang berjuang.",
+    "author": "Mark Manson",
+    "source": "The Subtle Art of Not Giving a F*ck",
+    "category": "Relatable",
+    "language": "id",
+    "length": "long",
+    "tags": [
+      "tekanan",
+      "topeng",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q260",
+    "text": "Aku rindu masa kecil dulu, saat masalah terbesar cuma PR matematika, bukan tentang masa depan yang buram.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "nostalgia-trip",
+      "quarter-life-crisis",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q261",
+    "text": "Satu-satunya orang yang membandingkan progresmu dengan orang lain adalah pikiran cemasmu sendiri.",
+    "author": "Brene Brown",
+    "source": "The Gifts of Imperfection",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "anxiety",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q262",
+    "text": "I am learning to be gentle with myself. I am a work in progress, not a finished product.",
+    "author": "Elizabeth Gilbert",
+    "source": "Big Magic",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "progres",
+      "self-care",
+      "langkah-kecil"
+    ]
+  },
+  {
+    "id": "q263",
+    "text": "Terlalu banyak menaruh ekspektasi pada orang lain hanya akan membuat kita berteman akrab dengan kekecewaan.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "patah-hati",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q264",
+    "text": "Tidak semua keheningan berarti kesepian. Kadang, sepi adalah cara jiwa kita bernapas dari bisingnya dunia.",
+    "author": "Alain de Botton",
+    "source": "The School of Life",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "sepi",
+      "introvert",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q265",
+    "text": "Langkah kecil tetaplah sebuah langkah maju. Jangan biarkan ketakutanmu membuatmu merasa jalan di tempat.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "langkah-kecil",
+      "progres",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q266",
+    "text": "Kadang capeknya bukan karena aktivitas, tapi karena isi kepala yang nggak bisa berhenti muter.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "capek",
+      "susah-tidur"
+    ]
+  },
+  {
+    "id": "q267",
+    "text": "Kita sibuk membandingkan bab pertama kita dengan bab kesepuluh orang lain.",
+    "author": "Alain de Botton",
+    "source": "Status Kecemasan",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "quarter-life-crisis",
+      "tekanan",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q268",
+    "text": "I’m not lazy. I’m just exhausted from trying to be okay every single day.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "baik-baik-saja",
+      "capek"
+    ]
+  },
+  {
+    "id": "q269",
+    "text": "Pura-pura nggak peduli itu melelahkan, tapi jauh lebih aman daripada kecewa lagi.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "sepi",
+      "curhat"
+    ]
+  },
+  {
+    "id": "q270",
+    "text": "Nggak apa-apa kalau hari ini cuma bisa bertahan hidup. Itu juga sebuah pencapaian.",
+    "author": "Glennon Doyle",
+    "source": "Untamed",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "izin-lemah",
+      "baik-baik-saja",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q271",
+    "text": "We are so afraid of failure that we don't even try to start the things we actually want.",
+    "author": "Mark Manson",
+    "source": "The Subtle Art of Not Giving a F*ck",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "tekanan",
+      "overthinking",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q272",
+    "text": "Umur 20-an itu lucu ya. Setengah temanmu sudah menikah, setengah lagi masih bingung besok mau makan apa.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "quarter-life-crisis",
+      "arah-hidup",
+      "curhat"
+    ]
+  },
+  {
+    "id": "q273",
+    "text": "Ternyata tumbuh dewasa adalah tentang merelakan banyak mimpi demi kedamaian batin.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "quarter-life-crisis",
+      "self-care",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q274",
+    "text": "Socializing takes so much energy, but being alone for too long makes me feel invisible.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "introvert",
+      "kesepian",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q275",
+    "text": "Tidur cepat adalah mitos ketika kepalamu punya jadwal rapat darurat jam dua pagi.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "susah-tidur",
+      "overthinking",
+      "capek"
+    ]
+  },
+  {
+    "id": "q276",
+    "text": "Menjadi rentan bukan berarti lemah. Itu adalah bukti keberanian paling nyata.",
+    "author": "Brene Brown",
+    "source": "Daring Greatly",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "izin-lemah",
+      "self-care",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q277",
+    "text": "Kadang aku cuma butuh satu hari di mana nggak ada satu pun orang yang menuntut sesuatu dariku.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "capek",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q278",
+    "text": "You don't have to figure out your whole life right now. Just focus on the next right step.",
+    "author": "Elizabeth Gilbert",
+    "source": "Big Magic",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-paced",
+      "langkah-kecil",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q279",
+    "text": "Paling capek itu pas harus menjelaskan kenapa kita sedih, padahal kita sendiri juga nggak tahu kenapa.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "capek",
+      "curhat",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q280",
+    "text": "Ada fase di mana kita cuma pengen pulang, padahal kita lagi ada di rumah sendiri.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q281",
+    "text": "Kita dipaksa mandiri oleh keadaan, lalu dianggap sombong saat mulai terbiasa sendiri.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "introvert",
+      "tekanan",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q282",
+    "text": "Maybe the problem isn't that I'm lost, but that I'm trying to follow a map that isn't mine.",
+    "author": "Alain de Botton",
+    "source": "The Pleasures and Sorrows of Work",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "arah-hidup",
+      "quarter-life-crisis",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q283",
+    "text": "Satu langkah kecil yang konsisten jauh lebih baik daripada rencana besar yang cuma jadi wacana.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "langkah-kecil",
+      "progres",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q284",
+    "text": "Rasanya aneh melihat orang lain punya tujuan hidup yang jelas, sementara aku cuma berusaha bertahan sampai besok pagi.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "quarter-life-crisis",
+      "arah-hidup",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q285",
+    "text": "Nggak semua hal harus diselesaikan hari ini. Kasih napas buat diri sendiri, kamu udah berusaha hebat.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-care",
+      "izin-lemah",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q286",
+    "text": "Kadang yang bikin sesak bukan masalahnya, tapi ekspektasi orang lain yang ditaruh di pundak kita.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "tekanan",
+      "burnout",
+      "capek"
+    ]
+  },
+  {
+    "id": "q287",
+    "text": "Kita sibuk pasang topeng 'aku nggak apa-apa' sampai lupa caranya jujur kalau kita lagi hancur.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "baik-baik-saja",
+      "curhat"
+    ]
+  },
+  {
+    "id": "q288",
+    "text": "Berhenti membandingkan kecepatanmu dengan orang lain. Bunga mawar dan melati nggak mekar di waktu yang sama.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-paced",
+      "progres",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q289",
+    "text": "Susah tidur karena otak sibuk memutar ulang kesalahan sepuluh tahun lalu yang bahkan orang lain udah lupa.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "susah-tidur",
+      "overthinking",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q290",
+    "text": "Butuh keberanian besar untuk sekadar mengakui kalau hari ini kita sedang tidak baik-baik saja.",
+    "author": "Brene Brown",
+    "source": "The Gifts of Imperfection",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "izin-lemah",
+      "baik-baik-saja",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q291",
+    "text": "Kita sibuk memikirkan masa depan, sampai lupa hari ini juga bagian dari hidup yang harus dinikmati.",
+    "author": "Alain de Botton",
+    "source": "Status Kecemasan",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "arah-hidup",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q292",
+    "text": "Capek banget pura-pura berisik padahal energi sosial udah minus sepuluh.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "capek",
+      "introvert",
+      "topeng"
+    ]
+  },
+  {
+    "id": "q293",
+    "text": "To be vulnerable is to be alive. To hide our feelings is to slow-poison our souls.",
+    "author": "Brené Brown",
+    "source": "The Gifts of Imperfection",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "mental-health",
+      "self-discovery",
+      "izin-lemah"
+    ]
+  },
+  {
+    "id": "q294",
+    "text": "Umur dua puluhan itu fase paling aneh: ada yang udah nikah punya anak, ada yang sibuk kuliah S2, dan ada yang masih bingung besok mau makan apa.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "long",
+    "tags": [
+      "quarter-life-crisis",
+      "arah-hidup",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q295",
+    "text": "Ternyata tumbuh dewasa adalah tentang merelakan banyak ekspektasi yang kita bangun sendiri waktu kecil.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "coming-of-age",
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q296",
+    "text": "You are not lazy. You are just exhausted from carrying expectations that were never yours to hold.",
+    "author": "Mark Manson",
+    "source": "The Subtle Art of Not Giving a F*ck",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "tekanan",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q297",
+    "text": "Jam 2 pagi, badan udah capek tapi otak masih sibuk muter ulang semua kesalahan dari lima tahun lalu.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "susah-tidur",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q298",
+    "text": "Nggak apa-apa kalau hari ini progresmu cuma bertahan hidup. Bertahan juga butuh energi yang besar.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "baik-baik-saja",
+      "langkah-kecil",
+      "izin-lemah"
+    ]
+  },
+  {
+    "id": "q299",
+    "text": "Mungkin kita nggak benci hari Senin. Kita cuma benci kenyataan bahwa waktu kita bukan milik kita sepenuhnya.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "tekanan",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q300",
+    "text": "We lose so much of ourselves trying to be who everyone else wants us to be, and then we spend the rest of our lives wondering why we feel so incredibly empty inside.",
+    "author": "Glennon Doyle",
+    "source": "Untamed",
+    "category": "Relatable",
+    "language": "en",
+    "length": "long",
+    "tags": [
+      "self-discovery",
+      "topeng",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q301",
+    "text": "Kadang pengen ngilang seminggu tanpa kabar, tapi sadar nggak bakal ada yang nyariin juga.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "escapism",
+      "sepi",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q302",
+    "text": "Jangan buru-buru. Hidup ini linimasa milikmu sendiri, bukan kompetisi lari dengan orang lain.",
+    "author": "Alain de Botton",
+    "source": "The Course of Love",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-paced",
+      "progres",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q303",
+    "text": "Ternyata makin dewasa, circle makin kecil bukan karena sombong, tapi karena energinya cuma cukup buat yang tulus aja.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "introvert",
+      "coming-of-age",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": "q304",
+    "text": "We are all just pretending to know what we are doing, hoping no one notices that we are actually terrified.",
+    "author": "Elizabeth Gilbert",
+    "source": "Big Magic",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "anxiety",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q305",
+    "text": "Paling capek itu waktu harus ngejelasin kenapa kita sedih, padahal kita sendiri juga nggak tahu kenapa.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "curhat",
+      "mental-health",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q306",
+    "text": "Ada masanya kita cuma pengen didengar tanpa perlu buru-buru dikasih solusi atau dinasihati.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "curhat",
+      "izin-lemah",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q307",
+    "text": "Berhenti membandingkan bab pertama hidupmu dengan bab kesepuluh hidup orang lain.",
+    "author": "Mark Manson",
+    "source": "The Subtle Art of Not Giving a F*ck",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-paced",
+      "arah-hidup",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q308",
+    "text": "Lelah mental itu nyata. Saat fisik nggak ngapa-ngapain tapi rasanya kayak habis lari maraton seharian.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "burnout",
+      "capek",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q309",
+    "text": "Selalu bilang 'nggak apa-apa' ke orang lain sampai lupa gimana caranya jujur ke diri sendiri kalau lagi hancur.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "topeng",
+      "baik-baik-saja",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q310",
+    "text": "Sometimes the most productive thing you can do is completely surrender to the rest your soul is asking for.",
+    "author": "Glennon Doyle",
+    "source": "Untamed",
+    "category": "Relatable",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "self-care",
+      "burnout",
+      "izin-lemah"
+    ]
+  },
+  {
+    "id": "q311",
+    "text": "Lucu ya, dulu pengen cepet gede biar bebas. Sekarang malah pengen balik jadi anak-anak yang masalah terbesarnya cuma PR matematika.",
+    "author": "Anonim",
+    "source": "X",
+    "category": "Relatable",
+    "language": "id",
+    "length": "long",
+    "tags": [
+      "coming-of-age",
+      "nostalgia-trip",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q312",
+    "text": "Butuh keberanian besar untuk mengakui bahwa jalan yang sedang kita lalui saat ini ternyata salah.",
+    "author": "Alain de Botton",
+    "source": "Status Kecemasan",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "self-discovery",
+      "arah-hidup",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q313",
+    "text": "Satu langkah kecil ke depan tetaplah sebuah kemajuan, tidak peduli seberapa lambat kamu melangkah.",
+    "author": "Elizabeth Gilbert",
+    "source": "Big Magic",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "langkah-kecil",
+      "progres",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q314",
+    "text": "Malam hari selalu punya cara buat bikin pikiran yang harusnya istirahat malah sibuk menyusun skenario terburuk.",
+    "author": "Anonim",
+    "source": "Twitter",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "overthinking",
+      "susah-tidur",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q315",
+    "text": "Kita terlalu keras pada diri sendiri, menuntut kesempurnaan di dunia yang bahkan tidak pernah adil sejak awal.",
+    "author": "Brené Brown",
+    "source": "The Gifts of Imperfection",
+    "category": "Relatable",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "tekanan",
+      "self-care",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q316",
+    "text": "Aku terlalu lelah untuk tidak apa-apa.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "capek",
+      "baik-baik-saja",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q317",
+    "text": "Maybe we’re just beautiful tragedies.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "patah-hati",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q318",
+    "text": "Kepala bising, malam hening.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "overthinking",
+      "susah-tidur",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q319",
+    "text": "Growing up is just learning how to grieve.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "self-discovery",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q320",
+    "text": "Sudah gapapa, besok coba lagi setengah-setengah.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-paced",
+      "langkah-kecil",
+      "progres"
+    ]
+  },
+  {
+    "id": "q321",
+    "text": "I am a museum of things you didn't like.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "melankolis",
+      "heartbreak-anthem"
+    ]
+  },
+  {
+    "id": "q322",
+    "text": "Ternyata jadi dewasa sepi juga, ya?",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "quarter-life-crisis",
+      "kesepian",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q323",
+    "text": "Too much internet, not enough human connection.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "escapism",
+      "introvert",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q324",
+    "text": "Bumi tetap berputar, meskipun tanpamu.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "move-on",
+      "patah-hati",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q325",
+    "text": "Lost in a world that doesn't exist.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "escapism",
+      "late-night-drive",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q326",
+    "text": "Berpura-pura kuat itu melelahkan.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "topeng",
+      "capek",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q327",
+    "text": "Quiet people have the loudest minds.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "introvert",
+      "overthinking",
+      "susah-tidur"
+    ]
+  },
+  {
+    "id": "q328",
+    "text": "Mencari diri sendiri di antara ekspektasi orang.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "tekanan",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q329",
+    "text": "Healing is not a linear journey.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-paced",
+      "progres",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q330",
+    "text": "Pulang ke mana saat rumah terasa asing?",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "arah-hidup",
+      "kesepian",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q331",
+    "text": "Some nights, I let the silence win.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "late-night-drive",
+      "sepi",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q332",
+    "text": "Izin tidak baik-baik saja untuk hari ini.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "izin-lemah",
+      "baik-baik-saja",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q333",
+    "text": "You are allowed to take up space.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery",
+      "progres"
+    ]
+  },
+  {
+    "id": "q334",
+    "text": "Beban pikiran lebih berat dari beban fisik.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "burnout",
+      "anxiety",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q335",
+    "text": "We were just the right people at the wrong time.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "heartbreak-anthem",
+      "patah-hati",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q336",
+    "text": "Curhat ke diri sendiri karena takut dihakimi.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "curhat",
+      "introvert",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q337",
+    "text": "A quiet heart in a loud world.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "introvert",
+      "sepi",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q338",
+    "text": "Langkah kecil tetaplah sebuah kemajuan.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "langkah-kecil",
+      "progres",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q339",
+    "text": "Temporary high, permanent sigh.",
+    "author": "Anonim",
+    "source": "Tumblr",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "euphoria",
+      "melankolis",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q340",
+    "text": "Menangis sebentar, besok pakai topeng lagi.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "topeng",
+      "izin-lemah",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q341",
+    "text": "Maybe we're just stories in the end.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q342",
+    "text": "Aku terlalu lelah untuk tidak apa-apa.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "capek",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q343",
+    "text": "Too tired to sleep, too awake to live.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "susah-tidur",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q344",
+    "text": "Kita hanya asing yang saling tahu rahasia.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q345",
+    "text": "I am homesick for a place that doesn't exist.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "escapism",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q346",
+    "text": "Pelan-pelan ya, jalannya masih panjang.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-paced",
+      "langkah-kecil"
+    ]
+  },
+  {
+    "id": "q347",
+    "text": "We are all seeking the same light.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q348",
+    "text": "Kepalaku bising, tapi dunia memintaku diam.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "overthinking",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q349",
+    "text": "Lost in a world that doesn't feel real.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "anxiety",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q350",
+    "text": "Hari ini gagal, besok kita coba lagi pelan-pelan.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "izin-lemah",
+      "progres"
+    ]
+  },
+  {
+    "id": "q351",
+    "text": "Quietly healing from things I never discuss.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "introvert"
+    ]
+  },
+  {
+    "id": "q352",
+    "text": "Menunggu esok yang rasanya selalu sama.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "burnout",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q353",
+    "text": "We are just stars trying to find our sky.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "jati-diri"
+    ]
+  },
+  {
+    "id": "q354",
+    "text": "Beberapa tanya memang tidak butuh jawab.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "overthinking",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q355",
+    "text": "I miss the person I was before the crash.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "burnout",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q356",
+    "text": "Kembali asing adalah jalan keluar terbaik.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "move-on",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q357",
+    "text": "Growing pains are the hardest to describe.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q358",
+    "text": "Mencintai bayangmu yang kini kian pudar.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q359",
+    "text": "Still searching for my own definition of safe.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q360",
+    "text": "Pura-pura kuat ternyata semelelahkan ini.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "topeng",
+      "capek"
+    ]
+  },
+  {
+    "id": "q361",
+    "text": "Just another passenger on a late night drive.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "late-night-drive",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q362",
+    "text": "Sepertinya kita hanya kebetulan yang dipaksakan.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "heartbreak-anthem",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q363",
+    "text": "I am fine, just terribly disconnected.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "kesepian",
+      "introvert"
+    ]
+  },
+  {
+    "id": "q364",
+    "text": "Mari berdamai dengan semua yang telah usai.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "move-on",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q365",
+    "text": "The moon still shines even when it's not full.",
+    "author": "Anonim",
+    "source": "",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "baik-baik-saja",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q366",
+    "text": "Aku terlalu lelah untuk tidak apa-apa.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "capek",
+      "baik-baik-saja",
+      "curhat"
+    ]
+  },
+  {
+    "id": "q367",
+    "text": "Maybe we're just matching the wrong timing.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "melankolis",
+      "heartbreak-anthem"
+    ]
+  },
+  {
+    "id": "q368",
+    "text": "Kepala bising, dunia terlalu cepat.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "overthinking",
+      "burnout",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q369",
+    "text": "Lost in a world that doesn't exist.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "escapism",
+      "sepi",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q370",
+    "text": "Pelan-pelan ya, jalannya masih panjang.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "langkah-kecil",
+      "progres",
+      "self-paced"
+    ]
+  },
+  {
+    "id": "q371",
+    "text": "Too tired to explain my own silence.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "capek",
+      "introvert",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q372",
+    "text": "Pura-pura tegar itu melelahkan juga.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "topeng",
+      "capek",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q373",
+    "text": "I am the background character of my life.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "kesepian",
+      "coming-of-age"
+    ]
+  },
+  {
+    "id": "q374",
+    "text": "Malam ini, biarkan aku sedikit rapuh.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "izin-lemah",
+      "late-night-drive",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q375",
+    "text": "Healing takes time. Don't rush it.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-paced",
+      "progres"
+    ]
+  },
+  {
+    "id": "q376",
+    "text": "Menyerah bukan berarti kalah, kan?",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "izin-lemah",
+      "arah-hidup",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q377",
+    "text": "Running out of things to hold on to.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "anxiety",
+      "burnout",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q378",
+    "text": "Maaf ya, hari ini energinya habis.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "burnout",
+      "capek",
+      "introvert"
+    ]
+  },
+  {
+    "id": "q379",
+    "text": "Nostalgia is a beautiful dirty trick.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "nostalgia-trip",
+      "melankolis",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q380",
+    "text": "Butuh tidur tanpa harus berpikir.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "susah-tidur",
+      "overthinking",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q381",
+    "text": "We are just strangers with memories.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "move-on",
+      "patah-hati",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q382",
+    "text": "Mencari diri sendiri di kota yang asing.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-discovery",
+      "jati-diri",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q383",
+    "text": "Maybe the happy ending is just moving on.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "move-on",
+      "heartbreak-anthem",
+      "euphoria"
+    ]
+  },
+  {
+    "id": "q384",
+    "text": "Sudah malam, tapi otaknya masih kerja.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "susah-tidur",
+      "overthinking",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q385",
+    "text": "Growing up is just a series of losses.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "quarter-life-crisis",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q386",
+    "text": "Tidak semua tanya butuh buru-buru dijawab.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-paced",
+      "langkah-kecil",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q387",
+    "text": "A silent scream in a crowded room.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "mental-health",
+      "anxiety",
+      "topeng"
+    ]
+  },
+  {
+    "id": "q388",
+    "text": "Rasanya sepi, padahal banyak orang.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "kesepian",
+      "sepi",
+      "introvert"
+    ]
+  },
+  {
+    "id": "q389",
+    "text": "I hope you find what you are looking for.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "self-care",
+      "self-discovery",
+      "arah-hidup"
+    ]
+  },
+  {
+    "id": "q390",
+    "text": "Kadang, diam adalah jawaban paling jujur.",
+    "author": "Anonim",
+    "source": "Twitter/X",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "introvert",
+      "sendu",
+      "curhat"
+    ]
+  },
+  {
+    "id": "q391",
+    "text": "Aku terlalu lelah untuk tidak apa-apa.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "capek",
+      "baik-baik-saja",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q392",
+    "text": "Growing up is just mourning who you used to be.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "melankolis",
+      "nostalgia-trip"
+    ]
+  },
+  {
+    "id": "q393",
+    "text": "Ternyata, jadi dewasa cuma tentang pura-pura.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "topeng",
+      "coming-of-age",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q394",
+    "text": "Maybe we are just meant to be lessons, not stories.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "move-on",
+      "heartbreak-anthem"
+    ]
+  },
+  {
+    "id": "q395",
+    "text": "Kepalaku bising, tapi sekitarku terlampau hening.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "overthinking",
+      "sepi",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q396",
+    "text": "The world is too loud. I just want to disappear.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "escapism",
+      "burnout",
+      "kesepian"
+    ]
+  },
+  {
+    "id": "q397",
+    "text": "Satu langkah kecil hari ini sudah lebih dari cukup.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "langkah-kecil",
+      "progres",
+      "self-care"
+    ]
+  },
+  {
+    "id": "q398",
+    "text": "Quiet minds have the loudest thoughts.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "introvert",
+      "overthinking",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q399",
+    "text": "Menyerah bukan pilihan, tapi istirahat itu harus.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "capek",
+      "self-care",
+      "burnout"
+    ]
+  },
+  {
+    "id": "q400",
+    "text": "Living in a continuous state of 'what if'.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "anxiety",
+      "overthinking",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "q401",
+    "text": "Rumah terbaik adalah tidur tanpa harus bermimpi.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "susah-tidur",
+      "capek",
+      "escapism"
+    ]
+  },
+  {
+    "id": "q402",
+    "text": "Softly, we let go of things we couldn't save.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "move-on",
+      "sendu",
+      "melankolis"
+    ]
+  },
+  {
+    "id": "q403",
+    "text": "Sedang belajar berteman dengan sepi yang baru.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "kesepian",
+      "self-discovery",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q404",
+    "text": "I am tired of being strong all the time.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "burnout",
+      "capek",
+      "izin-lemah"
+    ]
+  },
+  {
+    "id": "q405",
+    "text": "Biarkan aku kalah hari ini, besok kucoba lagi.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "izin-lemah",
+      "self-paced",
+      "progres"
+    ]
+  },
+  {
+    "id": "q406",
+    "text": "Do you ever feel like a ghost in your own life?",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "mental-health",
+      "kesepian",
+      "sepi"
+    ]
+  },
+  {
+    "id": "q407",
+    "text": "Kita hanyalah dua orang asing yang saling tahu.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "nostalgia-trip",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q408",
+    "text": "Some nights, the silence is just too heavy.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "sepi",
+      "late-night-drive",
+      "sendu"
+    ]
+  },
+  {
+    "id": "q409",
+    "text": "Kembali asing adalah akhir paling sunyi.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "patah-hati",
+      "sendu",
+      "heartbreak-anthem"
+    ]
+  },
+  {
+    "id": "q410",
+    "text": "Please, let me be fragile for just a second.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "izin-lemah",
+      "mental-health",
+      "tekanan"
+    ]
+  },
+  {
+    "id": "q411",
+    "text": "Tumbuh itu perih, tapi menetap juga mati rasa.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "coming-of-age",
+      "arah-hidup",
+      "quarter-life-crisis"
+    ]
+  },
+  {
+    "id": "q412",
+    "text": "We are all running out of time, yet doing nothing.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "quarter-life-crisis",
+      "tekanan",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "q413",
+    "text": "Ada banyak kata yang mati di ujung lidah.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "introvert",
+      "curhat",
+      "topeng"
+    ]
+  },
+  {
+    "id": "q414",
+    "text": "Looking at the ceiling, waiting for my mind to stop.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "susah-tidur",
+      "anxiety",
+      "overthinking"
+    ]
+  },
+  {
+    "id": "q415",
+    "text": "Tidak semua tanya butuh jawab sekarang.",
+    "author": "Anonim",
+    "source": "IG Notes",
+    "category": "IG Notes",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "self-paced",
+      "overthinking",
+      "baik-baik-saja"
+    ]
+  },
+  {
+    "id": "q416",
+    "text": "Belum ada satu bulan, ku yakin masih ada sisa wangiku di bajumu. Namun kau tampak baik saja.",
+    "author": "Bernadya",
+    "source": "Satu Bulan",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q417",
+    "text": "Apa mungkin caraku bicara? Apa mungkin caraku tertawa? Atau mungkin kamu yang tak lagi cinta?",
+    "author": "Bernadya",
+    "source": "Apa Mungkin",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q418",
+    "text": "Kini mereka tahu kau tak sebaik itu, padahal dari dulu aku selalu...",
+    "author": "Bernadya",
+    "source": "Kini Mereka Tahu",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q419",
+    "text": "Memang tidak mudah mencintai diri ini. Namun aku tahu kau pasti bisa menerima.",
+    "author": "Nadin Amizah",
+    "source": "Rayuan Perempuan Gila",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q420",
+    "text": "Sebab kau dan aku tahu, jalan kita tak sama.",
+    "author": "Nadin Amizah",
+    "source": "Sorai",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q421",
+    "text": "Keras kepalaku sama denganmu. Caraku marah, caraku tersenyum, seperti detak jantung yang bertaut.",
+    "author": "Nadin Amizah",
+    "source": "Bertaut",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q422",
+    "text": "Lantas mengapa ku masih menaruh hati, padahal ku tahu kau t'lah terikat janji.",
+    "author": "Juicy Luicy",
+    "source": "Lantas",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q423",
+    "text": "Macam orang benar saja, kamu muncul dengan senyummu. Sialan, kusuka.",
+    "author": "Juicy Luicy",
+    "source": "Sialan",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q424",
+    "text": "Sial-sialnya ku bertemu dengan cinta semu. Tertipu tutur dan caramu seolah cintaiku.",
+    "author": "Mahalini",
+    "source": "Sial",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q425",
+    "text": "Tenggelam dalam kisah sempurna, yang nyatanya kini sebatas pernah.",
+    "author": "Mahalini",
+    "source": "Kisah Sempurna",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q426",
+    "text": "Bersedihlah secukupnya.",
+    "author": "Hindia",
+    "source": "Secukupnya",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q427",
+    "text": "Banyak hal yang tak bisa kau paksakan. Hari ini belum tentu lebih buruk dari kemarin.",
+    "author": "Hindia",
+    "source": "Evaluasi",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q428",
+    "text": "Tenangkan hati. Semua ini bukan salahmu. Jangan berhenti.",
+    "author": "Kunto Aji",
+    "source": "Rehat",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q429",
+    "text": "Masih banyak yang belum sempat aku katakan padamu.",
+    "author": "Kunto Aji",
+    "source": "Pilu Membiru",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q430",
+    "text": "Terlalu lama sendiri, sudah terlalu lama aku asyik dengan duniaku sendiri.",
+    "author": "Kunto Aji",
+    "source": "Terlalu Lama Sendiri",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q431",
+    "text": "Take me home, I'm fallin'. Love me long, I'm rollin'.",
+    "author": "Pamungkas",
+    "source": "To The Bone",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q432",
+    "text": "Tuk sementara, sampai berjumpa. Bersama-sama, bercanda tawa.",
+    "author": "Pamungkas",
+    "source": "Kenangan Manis",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q433",
+    "text": "Kukira kita akan bersama. Begitu banyak yang sama. Latarmu dan latarku.",
+    "author": "Tulus",
+    "source": "Hati-Hati di Jalan",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q434",
+    "text": "Di mana pun kalian berada, ku kirimkan terima kasih.",
+    "author": "Tulus",
+    "source": "Monokrom",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q435",
+    "text": "Maafkan semua yang lalu, ampuni hati kecilmu.",
+    "author": "Tulus",
+    "source": "Diri",
+    "category": "Lagu",
+    "language": "id",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q436",
+    "text": "Menangislah, kan kau juga manusia. Mana ada yang bisa berlarut-larut pura-pura bahagia.",
+    "author": "Ghea Indrawari",
+    "source": "Jiwa Yang Bersedih",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q437",
+    "text": "Dan bila esok datang kembali, seperti sedia kala, di mana kau bisa bercanda.",
+    "author": "Sheila On 7",
+    "source": "Dan",
+    "category": "Lagu",
+    "language": "id",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q438",
+    "text": "I'm drunk in the back of the car, and I cried like a baby coming home from the bar.",
+    "author": "Taylor Swift",
+    "source": "Cruel Summer",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q439",
+    "text": "And you call me up again just to break me like a promise. So casually cruel in the name of being honest.",
+    "author": "Taylor Swift",
+    "source": "All Too Well",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q440",
+    "text": "But I can see us lost in the memory, August slipped away into a moment in time 'cause it was never mine.",
+    "author": "Taylor Swift",
+    "source": "August",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q441",
+    "text": "I think I've seen this film before, and I didn't like the ending.",
+    "author": "Taylor Swift",
+    "source": "Exile",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q442",
+    "text": "I should've known it was strange, you only come out at night. I used to think I was smart.",
+    "author": "Olivia Rodrigo",
+    "source": "Vampire",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q443",
+    "text": "You didn't cheat, but you're still a traitor.",
+    "author": "Olivia Rodrigo",
+    "source": "Traitor",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q444",
+    "text": "And I know we weren't perfect but I've never felt this way for no one.",
+    "author": "Olivia Rodrigo",
+    "source": "Drivers License",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q445",
+    "text": "I used to float, now I just fall down. I used to know but I'm not sure now.",
+    "author": "Billie Eilish",
+    "source": "What Was I Made For?",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q446",
+    "text": "When I'm away from you, I'm happier than ever. Wish I could explain it better.",
+    "author": "Billie Eilish",
+    "source": "Happier Than Ever",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q447",
+    "text": "I don't wanna talk right now, I just wanna watch TV. I'll stay in the pool and drown.",
+    "author": "Billie Eilish",
+    "source": "TV",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q448",
+    "text": "I got that summertime, summertime sadness. S-s-summertime, summertime sadness.",
+    "author": "Lana Del Rey",
+    "source": "Summertime Sadness",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q449",
+    "text": "There's things I wanna say to you, but I'll just let you live.",
+    "author": "Lana Del Rey",
+    "source": "Cinnamon Girl",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q450",
+    "text": "Will you still love me when I'm no longer young and beautiful?",
+    "author": "Lana Del Rey",
+    "source": "Young and Beautiful",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q451",
+    "text": "Why would you ever kiss me? I'm not even half as pretty.",
+    "author": "Conan Gray",
+    "source": "Heather",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q452",
+    "text": "Please don't ruin this for me, please don't make it harder than it already is.",
+    "author": "Conan Gray",
+    "source": "Memories",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q453",
+    "text": "Every day is summertime with you, every night I'm falling for you.",
+    "author": "NIKI",
+    "source": "Every Summertime",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q454",
+    "text": "But if you take a chance with me, I could be the one you've been looking for.",
+    "author": "NIKI",
+    "source": "Take A Chance With Me",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q455",
+    "text": "Oceans and engines, you're the one I'm missing. But I'll let you go, I'll let you go.",
+    "author": "NIKI",
+    "source": "Oceans & Engines",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q456",
+    "text": "Cause sometimes I look in her eyes and that's where I find a glimpse of us.",
+    "author": "Joji",
+    "source": "Glimpse of Us",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q457",
+    "text": "Give me reasons we should be complete. You should be with him, I can't compete.",
+    "author": "Joji",
+    "source": "Slow Dancing in the Dark",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q458",
+    "text": "I might kill my ex, not the best idea. His new girlfriend's next, how'd I get here?",
+    "author": "SZA",
+    "source": "Kill Bill",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q459",
+    "text": "I can't lose when I'm with you. How can I snooze and miss the moment?",
+    "author": "SZA",
+    "source": "Snooze",
+    "category": "Lagu",
+    "language": "en",
+    "length": "short",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q460",
+    "text": "But I crumble completely when you cry. It seems like once again you've had to greet me with goodbye.",
+    "author": "Arctic Monkeys",
+    "source": "505",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q461",
+    "text": "I'm a creep, I'm a weirdo. What the hell am I doing here? I don't belong here.",
+    "author": "Radiohead",
+    "source": "Creep",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q462",
+    "text": "Cause it's too cold for you here, and now so let me hold both your hands in the holes of my sweater.",
+    "author": "The Neighbourhood",
+    "source": "Sweater Weather",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q463",
+    "text": "I'm not the only one. You say I'm crazy, 'cause you don't think I know what you've done.",
+    "author": "Sam Smith",
+    "source": "I'm Not The Only One",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q464",
+    "text": "Cause all of me loves all of you. Love your curves and all your edges, all your perfect imperfections.",
+    "author": "John Legend",
+    "source": "All of Me",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
+  },
+  {
+    "id": "q465",
+    "text": "Somebody that I used to know. Now and then I think of all the times you screwed me over.",
+    "author": "Gotye",
+    "source": "Somebody That I Used To Know",
+    "category": "Lagu",
+    "language": "en",
+    "length": "medium",
+    "tags": [
+      "melankolis",
+      "relatable",
+      "patah-hati"
+    ]
   }
 ]

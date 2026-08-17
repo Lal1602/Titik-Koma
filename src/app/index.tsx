@@ -23,6 +23,7 @@ export default function HomeScreen() {
   const { themeMode, theme } = useTheme();
   const { currentQuote, activeCategory, setCategory, nextQuote, setSpecificQuoteById } = useQuotes();
   const { isBookmarked, toggleBookmark } = useBookmarks();
+  
   const { quote: dailyQuote, isLoading: isDailyLoading, formattedDate } = useDailyQuote();
   const [toastVisible, setToastVisible] = useState(false);
   const [toastMessage, setToastMessage] = useState('');

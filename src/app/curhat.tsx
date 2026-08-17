@@ -23,6 +23,8 @@ import Animated, {
   withTiming,
   Easing,
   Layout,
+  FadeIn,
+  FadeOut,
 } from 'react-native-reanimated';
 
 import BottomNav, { TabName } from '../components/BottomNav';
@@ -52,7 +54,7 @@ let currentModelIndex = 0;
 const MAX_INPUT_LENGTH = 280;
 
 // System prompt yang dikirim ke Gemini API
-const SYSTEM_PROMPT = `Kamu adalah penyair digital bernama "Titik-Koma". Tugasmu adalah mengubah perasaan yang diceritakan user menjadi satu kalimat yang puitis, estetis, dan relate — dalam gaya sastra Indonesia modern atau bahasa Inggris yang elegan.
+const getSystemPrompt = (lang: 'id' | 'en') => `Kamu adalah penyair digital bernama "Titik-Koma". Tugasmu adalah mengubah perasaan yang diceritakan user menjadi satu kalimat yang puitis, estetis, dan relate.
 
 Aturan ketat:
 1. Output HANYA berupa satu kalimat quotes (bukan paragraf, bukan penjelasan, bukan intro)
@@ -61,6 +63,7 @@ Aturan ketat:
 4. Boleh menggunakan metafora alam, waktu, atau benda sehari-hari
 5. TIDAK BOLEH menggunakan kata-kata klise seperti: "jangan menyerah", "kamu kuat", "semangat ya"
 6. Tidak perlu menyebut nama penulis atau sumber — cukup kalimatnya saja
+7. PENTING: Output mutlak HARUS murni dalam bahasa ${lang === 'id' ? 'Indonesia' : 'Inggris (English)'}.
 
 Input dari user:`;
 
@@ -69,6 +72,7 @@ export default function CurhatScreen() {
   const [inputText, setInputText] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [generatedQuote, setGeneratedQuote] = useState<string | null>(null);
+  const [targetLanguage, setTargetLanguage] = useState<'id' | 'en'>('id');
   const [toastVisible, setToastVisible] = useState(false);
   const [toastMessage, setToastMessage] = useState('');
   const { theme } = useTheme();
@@ -160,16 +164,23 @@ export default function CurhatScreen() {
   };
 
   // Mengirim request ke Gemini API dengan sticky round-robin fallback
-  const handleGenerate = async () => {
+  const handleGenerate = async (overrideLang?: 'id' | 'en') => {
     if (isInputEmpty || isLoading) return;
 
+    const isRegenerating = !!generatedQuote;
     setIsLoading(true);
-    setGeneratedQuote(null);
-    resultOpacity.value = 0;
-    resultTranslateY.value = 12;
+
+    if (!isRegenerating) {
+      setGeneratedQuote(null);
+      resultOpacity.value = 0;
+      resultTranslateY.value = 12;
+    } else {
+      // Fade out slightly to indicate loading state during translation
+      resultOpacity.value = withTiming(0.4, { duration: 200 });
+    }
 
     try {
-      const prompt = `${SYSTEM_PROMPT}\n\n${inputText.trim()}`;
+      const prompt = `${getSystemPrompt(overrideLang || targetLanguage)}\n\n${inputText.trim()}`;
       const result = await callWithFallback(prompt);
 
       // Bersihkan tanda kutip jika AI menambahkannya sendiri
@@ -178,7 +189,9 @@ export default function CurhatScreen() {
 
       // Animasi fade in + slide up untuk menampilkan hasil
       resultOpacity.value = withTiming(1, { duration: 400, easing: Easing.out(Easing.ease) });
-      resultTranslateY.value = withTiming(0, { duration: 400, easing: Easing.out(Easing.ease) });
+      if (!isRegenerating) {
+        resultTranslateY.value = withTiming(0, { duration: 400, easing: Easing.out(Easing.ease) });
+      }
 
       Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
 
@@ -242,8 +255,52 @@ export default function CurhatScreen() {
           showsVerticalScrollIndicator={false}
           contentContainerStyle={styles.scrollContent}
         >
-          {/* Label area input */}
-          <Text style={[styles.sectionLabel, { color: theme.textMuted }]}>CERITAKAN PERASAANMU</Text>
+          {/* Header area input & Language Toggle */}
+          <View style={styles.inputHeader}>
+            <Text style={[styles.sectionLabel, { color: theme.textMuted }]}>CERITAKAN PERASAANMU</Text>
+            
+            <View style={[styles.langToggleWrapper, { borderColor: theme.border }]}>
+              <TouchableOpacity 
+                style={[
+                  styles.langOption, 
+                  targetLanguage === 'id' && { backgroundColor: theme.textPrimary }
+                ]}
+                onPress={() => {
+                  Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                  if (targetLanguage === 'id') return;
+                  setTargetLanguage('id');
+                  if (generatedQuote) handleGenerate('id');
+                }} 
+                disabled={isLoading}
+              >
+                <Text style={[
+                  styles.langText, 
+                  targetLanguage === 'id' ? { color: theme.background } : { color: theme.textSecondary }
+                ]}>ID</Text>
+              </TouchableOpacity>
+              
+              <View style={{ width: 1, height: 14, backgroundColor: theme.border }} />
+              
+              <TouchableOpacity 
+                style={[
+                  styles.langOption, 
+                  targetLanguage === 'en' && { backgroundColor: theme.textPrimary }
+                ]}
+                onPress={() => {
+                  Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                  if (targetLanguage === 'en') return;
+                  setTargetLanguage('en');
+                  if (generatedQuote) handleGenerate('en');
+                }} 
+                disabled={isLoading}
+              >
+                <Text style={[
+                  styles.langText, 
+                  targetLanguage === 'en' ? { color: theme.background } : { color: theme.textSecondary }
+                ]}>EN</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
 
           {/* Area input curhat */}
           <Animated.View layout={Layout.springify().damping(20)} style={styles.inputWrapper}>
@@ -325,7 +382,7 @@ export default function CurhatScreen() {
               (isInputEmpty || isApiKeyMissing) && { borderColor: theme.borderSubtle },
             ]}
             activeOpacity={0.7}
-            onPress={handleGenerate}
+            onPress={() => handleGenerate()}
             disabled={isInputEmpty || isLoading || isApiKeyMissing}
           >
             {isLoading ? (
@@ -394,7 +451,30 @@ const styles = StyleSheet.create({
     fontFamily: 'Inter_700Bold',
     fontSize: 9,
     letterSpacing: 2,
+  },
+  inputHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
     marginBottom: 16,
+  },
+  langToggleWrapper: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    borderWidth: 1,
+    borderRadius: 20,
+    overflow: 'hidden',
+  },
+  langOption: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  langText: {
+    fontFamily: 'Inter_700Bold',
+    fontSize: 10,
+    letterSpacing: 1,
   },
   inputWrapper: {
     paddingTop: 8,
