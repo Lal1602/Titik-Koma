@@ -22,6 +22,7 @@ import Animated, {
   useAnimatedStyle,
   withTiming,
   Easing,
+  Layout,
 } from 'react-native-reanimated';
 
 import BottomNav, { TabName } from '../components/BottomNav';
@@ -35,9 +36,6 @@ const CURHAT_COUNT_KEY = '@titikkoma_curhat_count';
 // Daftar model Gemini yang tersedia untuk round-robin
 // Urutan dari yang paling baru dan cepat ke yang lebih lama
 const GEMINI_MODELS = [
-  'gemini-2.5-flash',
-  'gemini-2.5-flash-lite',
-  'gemini-3-flash',
   'gemini-3.1-flash-lite',
   'gemini-3.5-flash',
   'gemini-3.5-flash-lite',
@@ -248,9 +246,18 @@ export default function CurhatScreen() {
           <Text style={[styles.sectionLabel, { color: theme.textMuted }]}>CERITAKAN PERASAANMU</Text>
 
           {/* Area input curhat */}
-          <View style={styles.inputWrapper}>
+          <Animated.View layout={Layout.springify().damping(20)} style={styles.inputWrapper}>
             <TextInput
-              style={[styles.textInput, { color: theme.textPrimary }]}
+              style={[
+                styles.textInput, 
+                { color: theme.textPrimary },
+                generatedQuote ? { 
+                  minHeight: 0, 
+                  fontSize: 18, 
+                  lineHeight: 26, 
+                  color: theme.textSecondary 
+                } : null
+              ]}
               multiline
               maxLength={MAX_INPUT_LENGTH}
               placeholder="ceritakan dulu, biar aku cariin kata-katanya..."
@@ -258,12 +265,16 @@ export default function CurhatScreen() {
               value={inputText}
               onChangeText={setInputText}
               textAlignVertical="top"
+              editable={!generatedQuote}
+              scrollEnabled={false}
             />
             {/* Counter karakter */}
-            <Text style={[styles.charCounter, { color: theme.textMuted }]}>
-              {inputText.length}/{MAX_INPUT_LENGTH}
-            </Text>
-          </View>
+            {!generatedQuote && (
+              <Text style={[styles.charCounter, { color: theme.textMuted }]}>
+                {inputText.length}/{MAX_INPUT_LENGTH}
+              </Text>
+            )}
+          </Animated.View>
 
           {/* Sentuhan Aesthetic saat kosong */}
           {!generatedQuote && isInputEmpty && (
@@ -305,26 +316,44 @@ export default function CurhatScreen() {
           )}
         </ScrollView>
 
-        {/* Tombol generate — di atas BottomNav */}
-        <TouchableOpacity
-          style={[
-            styles.generateBtn,
-            { backgroundColor: theme.buttonBg, borderColor: theme.border },
-            (isInputEmpty || isApiKeyMissing) && { borderColor: theme.borderSubtle },
-          ]}
-          activeOpacity={0.7}
-          onPress={handleGenerate}
-          disabled={isInputEmpty || isLoading || isApiKeyMissing}
-        >
-          {isLoading ? (
-            <View style={styles.loadingRow}>
-              <ActivityIndicator size="small" color={theme.textMuted} />
-              <Text style={[styles.generateBtnText, { color: theme.buttonText }]}>sedang meracik...</Text>
-            </View>
-          ) : (
-            <Text style={[styles.generateBtnText, { color: theme.buttonText }]}>RACIK KATA-KATA</Text>
-          )}
-        </TouchableOpacity>
+        {/* Tombol Aksi di atas BottomNav */}
+        {!generatedQuote ? (
+          <TouchableOpacity
+            style={[
+              styles.generateBtn,
+              { backgroundColor: theme.buttonBg, borderColor: theme.border },
+              (isInputEmpty || isApiKeyMissing) && { borderColor: theme.borderSubtle },
+            ]}
+            activeOpacity={0.7}
+            onPress={handleGenerate}
+            disabled={isInputEmpty || isLoading || isApiKeyMissing}
+          >
+            {isLoading ? (
+              <View style={styles.loadingRow}>
+                <ActivityIndicator size="small" color={theme.textMuted} />
+                <Text style={[styles.generateBtnText, { color: theme.buttonText }]}>sedang meracik...</Text>
+              </View>
+            ) : (
+              <Text style={[styles.generateBtnText, { color: theme.buttonText }]}>RACIK KATA-KATA</Text>
+            )}
+          </TouchableOpacity>
+        ) : (
+          <TouchableOpacity
+            style={[
+              styles.generateBtn,
+              { backgroundColor: theme.buttonBg, borderColor: theme.border },
+            ]}
+            activeOpacity={0.7}
+            onPress={() => {
+              Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+              setGeneratedQuote(null);
+              setInputText('');
+              resultOpacity.value = 0;
+            }}
+          >
+            <Text style={[styles.generateBtnText, { color: theme.buttonText }]}>TULIS CURHAT BARU</Text>
+          </TouchableOpacity>
+        )}
 
         {/* Bottom Navigation */}
         <BottomNav activeTab="curhat" onTabPress={handleTabPress} />
