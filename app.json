@@ -9,6 +9,7 @@
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#0a0a0a",
     "android": {
+      "package": "com.chocolal.titikkoma",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -43,6 +44,13 @@
           "photosPermission": "Titik-Koma perlu akses galeri untuk menyimpan gambar quotes.",
           "savePhotosPermission": "Titik-Koma perlu akses galeri untuk menyimpan gambar quotes.",
           "isAccessMediaLocationEnabled": false
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/icon.png",
+          "color": "#0a0a0a"
         }
       ]
     ]

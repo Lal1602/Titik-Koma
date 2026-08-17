@@ -34,7 +34,15 @@ export default function MoreScreen() {
   const insets = useSafeAreaInsets();
   const { bookmarks } = useBookmarks();
   const { themeMode, theme, toggleTheme } = useTheme();
-  const { langPref, curhatCount, setLangPref } = useAppSettings();
+  const { 
+    langPref, 
+    curhatCount, 
+    notificationEnabled, 
+    notificationTime, 
+    setLangPref,
+    setNotificationEnabled,
+    setNotificationTime
+  } = useAppSettings();
   const [toastVisible, setToastVisible] = useState(false);
   const [toastMessage, setToastMessage] = useState('');
 
@@ -209,6 +217,56 @@ export default function MoreScreen() {
               );
             })}
           </View>
+        </View>
+
+        {/* Pengaturan: Pengingat Harian */}
+        <View style={[styles.settingBlock, { borderBottomColor: theme.borderSubtle }]}>
+          <View style={styles.settingRowInner}>
+            <Text style={[styles.settingLabel, { color: theme.textSecondary }]}>Pengingat Harian</Text>
+            <Switch
+              value={notificationEnabled}
+              onValueChange={(val) => {
+                Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                setNotificationEnabled(val);
+                showToast(val ? 'Pengingat diaktifkan' : 'Pengingat dimatikan');
+              }}
+              trackColor={{ false: '#2a2a2a', true: '#888888' }}
+              thumbColor={notificationEnabled ? theme.textPrimary : '#555'}
+            />
+          </View>
+          
+          {notificationEnabled && (
+            <View style={styles.hourList}>
+              {(['08:00', '12:00', '20:00'] as const).map((time) => {
+                const isActive = notificationTime === time;
+                return (
+                  <TouchableOpacity
+                    key={time}
+                    style={[
+                      styles.hourChip,
+                      {
+                        backgroundColor: isActive ? theme.textPrimary : 'transparent',
+                        borderColor: isActive ? theme.textPrimary : theme.border,
+                      },
+                    ]}
+                    activeOpacity={0.7}
+                    onPress={() => {
+                      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                      setNotificationTime(time);
+                      showToast(`Diingatkan pada ${time}`);
+                    }}
+                  >
+                    <Text style={[
+                      styles.hourText,
+                      { color: isActive ? theme.background : theme.textMuted },
+                    ]}>
+                      {time === '08:00' ? 'Pagi (08:00)' : time === '12:00' ? 'Siang (12:00)' : 'Malam (20:00)'}
+                    </Text>
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          )}
         </View>
 
         {/* Garis pemisah */}

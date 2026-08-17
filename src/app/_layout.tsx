@@ -14,6 +14,8 @@ import {
 } from '@expo-google-fonts/inter';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { ThemeProvider, useTheme } from '../context/ThemeContext';
+import { useAppSettings } from '../hooks/useAppSettings';
+import { useNotifications } from '../hooks/useNotifications';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -21,6 +23,9 @@ import { View } from 'react-native';
 
 function RootLayoutNav() {
   const { theme } = useTheme();
+  const { notificationEnabled, notificationTime, isLoading } = useAppSettings();
+
+  useNotifications(!isLoading && notificationEnabled, notificationTime);
   
   return (
     <View style={{ flex: 1, backgroundColor: theme.background }}>
