@@ -52,6 +52,8 @@ export const useQuotes = (): UseQuotesReturn => {
       if (saved === 'id' || saved === 'en' || saved === 'all') {
         setLangPref(saved);
       }
+    }).catch(error => {
+      console.error("Gagal memuat preferensi bahasa:", error);
     });
   }, []);
 

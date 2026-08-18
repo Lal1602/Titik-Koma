@@ -14,12 +14,28 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_GEMINI_API_KEY": "YOUR_API_KEY_HERE"
+        "EXPO_PUBLIC_GEMINI_API_KEY": "YOUR_GEMINI_API_KEY_HERE"
+      }
+    },
+    "preview-simulator": {
+      "ios": {
+        "simulator": true
+      },
+      "env": {
+        "EXPO_PUBLIC_GEMINI_API_KEY": "YOUR_GEMINI_API_KEY_HERE"
+      }
+    },
+    "production-apk": {
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_GEMINI_API_KEY": "YOUR_GEMINI_API_KEY_HERE"
       }
     },
     "production": {
       "env": {
-        "EXPO_PUBLIC_GEMINI_API_KEY": "YOUR_API_KEY_HERE"
+        "EXPO_PUBLIC_GEMINI_API_KEY": "YOUR_GEMINI_API_KEY_HERE"
       }
     }
   },

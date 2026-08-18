@@ -30,6 +30,8 @@ export const ThemeProvider: React.FC<{ children: React.ReactNode }> = ({ childre
       if (saved === 'kertas' || saved === 'midnight') {
         setThemeMode(saved);
       }
+    }).catch(error => {
+      console.error("Gagal memuat tema:", error);
     });
   }, []);
 

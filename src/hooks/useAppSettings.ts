@@ -58,6 +58,9 @@ export const useAppSettings = (): UseAppSettingsReturn => {
         setNotifTimeState(notifTime);
       }
       setIsLoading(false);
+    }).catch(error => {
+      console.error("Gagal memuat pengaturan:", error);
+      setIsLoading(false);
     });
   }, []);
 
